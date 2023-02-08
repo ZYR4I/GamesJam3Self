@@ -10322,3 +10322,23 @@ Script Stack (0 frames):
 [2023.02.08-02.29.47:965][193]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2023.02.08-02.29.47:965][193]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2023.02.08-02.29.47:965][193]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.08-02.29.50:065][193]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:070][193]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:072][193]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:075][193]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:078][193]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:080][193]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:082][193]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:086][193]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:089][193]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:091][193]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:094][193]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:096][193]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:099][193]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:102][193]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:315][193]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-02.29.50:645][193]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.02.08-02.29.51:055][193]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.08-02.29.51:102][193]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.08-02.29.51:151][193]LogExit: Editor shut down
+[2023.02.08-02.29.51:155][193]LogExit: Transaction tracking system shut down
