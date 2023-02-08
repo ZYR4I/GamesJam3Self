@@ -26911,3 +26911,6 @@ Make sure 'WBP_ItemBox_C' has been compiled for  Get Socket
 [2023.02.08-20.36.42:337][493]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
 [2023.02.08-20.36.42:337][493]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
 [2023.02.08-20.36.42:338][493]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.02.08-20.36.43:960][493]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.02.08-20.36.43:960][493]LogExit: Exiting.
+[2023.02.08-20.36.43:970][493]Log file closed, 02/08/23 20:36:43
