@@ -3842,3 +3842,644 @@ BOOT: 0
 [2023.02.11-18.30.11:089][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
 [2023.02.11-18.30.11:270][661]LogPlayLevel: Display: Destroying online subsystem :Context_43
 [2023.02.11-18.30.11:603][662]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.30.48:462][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.02.11-18.30.48:475][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/0/IX/KC4557HIRZCY2UQNFYPCJG_Auto1
+[2023.02.11-18.30.48:476][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/KC4557HIRZCY2UQNFYPCJG_Auto1116C0CC4425F787E134E309A55B01A7A.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/0/IX/KC4557HIRZCY2UQNFYPCJG_Auto1.uasset'
+[2023.02.11-18.30.48:479][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/4/HU/HL213CWQZ9XGLAC8A3KQZD_Auto1
+[2023.02.11-18.30.48:480][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/HL213CWQZ9XGLAC8A3KQZD_Auto1EB605DF04C4E3B189F7B7686473765D8.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/4/HU/HL213CWQZ9XGLAC8A3KQZD_Auto1.uasset'
+[2023.02.11-18.30.48:484][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/B/ER/TZFZQ8TYZ96N4EHQ0IVMC0_Auto1
+[2023.02.11-18.30.48:485][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/TZFZQ8TYZ96N4EHQ0IVMC0_Auto1DBF9F7F2474E88372DBFEB949354D922.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/B/ER/TZFZQ8TYZ96N4EHQ0IVMC0_Auto1.uasset'
+[2023.02.11-18.30.48:488][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/C/CT/XBHV0MG1K2HQK4ZC1B5UQG_Auto1
+[2023.02.11-18.30.48:489][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/XBHV0MG1K2HQK4ZC1B5UQG_Auto18CFF0D044CB5565580586A9235AA12AF.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/C/CT/XBHV0MG1K2HQK4ZC1B5UQG_Auto1.uasset'
+[2023.02.11-18.30.48:493][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/2/SG/OFLG58SR028AHY0N5INM4T_Auto1
+[2023.02.11-18.30.48:493][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/OFLG58SR028AHY0N5INM4T_Auto1D9FAD64446BF909AAD967F9AF74A282B.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/2/SG/OFLG58SR028AHY0N5INM4T_Auto1.uasset'
+[2023.02.11-18.30.48:497][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/D/0H/E81KTWIX485K4GYZ1GIZL6_Auto1
+[2023.02.11-18.30.48:497][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/E81KTWIX485K4GYZ1GIZL6_Auto142CFFD664F82C15356434EA16DE62835.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/D/0H/E81KTWIX485K4GYZ1GIZL6_Auto1.uasset'
+[2023.02.11-18.30.48:500][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/2/U3/HIEWPLKKRV1N9IPNIFGZF7_Auto1
+[2023.02.11-18.30.48:500][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/HIEWPLKKRV1N9IPNIFGZF7_Auto17FD37EB94FE798E13F7B0E8044781882.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/2/U3/HIEWPLKKRV1N9IPNIFGZF7_Auto1.uasset'
+[2023.02.11-18.30.48:503][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/8/HS/97QXIY52VLJ50BRHU90DBT_Auto1
+[2023.02.11-18.30.48:503][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/97QXIY52VLJ50BRHU90DBT_Auto135FC1BC144E5D3C95E87DCB14AF4D658.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/8/HS/97QXIY52VLJ50BRHU90DBT_Auto1.uasset'
+[2023.02.11-18.30.48:507][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/9/TY/VS7CQ3LO4063VLBLG6OP5L_Auto1
+[2023.02.11-18.30.48:507][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/VS7CQ3LO4063VLBLG6OP5L_Auto1EB7387B64A13135C7376ACA001036C69.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/9/TY/VS7CQ3LO4063VLBLG6OP5L_Auto1.uasset'
+[2023.02.11-18.30.48:511][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/5/I9/QSSHMUWBHT66Q46LMAK6A7_Auto1
+[2023.02.11-18.30.48:511][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/QSSHMUWBHT66Q46LMAK6A7_Auto1E01AF8D54A715F80D301E58A32E99F49.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/5/I9/QSSHMUWBHT66Q46LMAK6A7_Auto1.uasset'
+[2023.02.11-18.30.48:515][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/8/9R/Q4SURDFL0EWC2I840KQU9H_Auto1
+[2023.02.11-18.30.48:515][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Q4SURDFL0EWC2I840KQU9H_Auto147F8309442B304B0A128F2A059D11B97.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/8/9R/Q4SURDFL0EWC2I840KQU9H_Auto1.uasset'
+[2023.02.11-18.30.48:518][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/D/MT/ERD1EFBZD9O2DGCL3R89HH_Auto1
+[2023.02.11-18.30.48:518][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/ERD1EFBZD9O2DGCL3R89HH_Auto17E1ADFDF4369D8F6F6C743A6793BA34F.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/D/MT/ERD1EFBZD9O2DGCL3R89HH_Auto1.uasset'
+[2023.02.11-18.30.48:532][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelBase' took 0.114
+[2023.02.11-18.30.48:532][771]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
+[2023.02.11-18.30.48:533][771]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_Chest] ([2] browsable assets)...
+[2023.02.11-18.30.48:585][771]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Chest.BP_Chest]
+[2023.02.11-18.30.48:586][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Chest]
+[2023.02.11-18.30.48:627][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BP_Chest_Auto1
+[2023.02.11-18.30.48:627][771]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_Chest_Auto1BB0A312F44995A07DF486388004B6F5D.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/Blueprints/Items/BP_Chest_Auto1.uasset'
+[2023.02.11-18.30.48:628][771]LogFileHelpers: Auto-saving content packages took 0.096
+[2023.02.11-18.31.44:978][940]LogDerivedDataCache: C:/Users/Ricor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.959 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.11-18.33.37:718][868]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Blueprints/Enemies/BT/BT_EnemyBehaviour.BT_EnemyBehaviour
+[2023.02.11-18.34.11:120][860]LogSlate: Window 'BT_EnemyBehaviour' being destroyed
+[2023.02.11-18.34.11:130][860]LogSlate: Window 'BT_EnemyBehaviour' being destroyed
+[2023.02.11-18.34.14:598][145]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_AiController.BP_AiController
+[2023.02.11-18.34.14:599][145]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.11-18.34.21:888][523]LogSlate: Window 'BP_AiController' being destroyed
+[2023.02.11-18.34.21:897][523]LogSlate: Window 'BP_AiController' being destroyed
+[2023.02.11-18.34.21:901][523]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.34.21:901][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.34.51:374][131]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.02.11-18.34.57:139][709]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.35.14:768][576]BlueprintLog: New page: Compile BP_Chest
+[2023.02.11-18.35.14:999][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.02.11-18.35.15:111][577]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.35.21:964][175]BlueprintLog: New page: Compile BP_Chest
+[2023.02.11-18.35.22:119][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.11-18.35.22:233][176]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.36.00:062][192]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.36.24:661][616]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.36.25:006][643]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.11-18.36.48:899][199]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.36.58:180][284]BlueprintLog: New page: Compile BP_Chest
+[2023.02.11-18.36.58:345][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.11-18.36.58:490][285]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.36.59:015][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Chest" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset" SILENT=true
+[2023.02.11-18.36.59:053][334]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Chest
+[2023.02.11-18.36.59:054][334]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_ChestED97B32344BBF12D17EFEBA0528546D1.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset'
+[2023.02.11-18.36.59:073][334]AssetCheck: New page: Asset Save: BP_Chest
+[2023.02.11-18.36.59:073][334]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Chest.BP_Chest
+[2023.02.11-18.37.54:606][989]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.11-18.37.54:616][989]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.11-18.37.54:616][989]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.11-18.37.54:616][989]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.11-18.37.54:616][989]LogWorldPartition: Display: ValidateSingleActorReferer took 5 us
+[2023.02.11-18.37.54:617][989]LogWorldPartition: Display: GetPartitionedActors took 622 us
+[2023.02.11-18.37.54:618][989]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.02.11-18.37.54:618][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.11-18.37.54:618][989]PIE: New page: PIE session: LevelBase (11 Feb 2023, 18:37:54)
+[2023.02.11-18.37.54:618][989]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.11-18.37.54:649][989]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.11-18.37.54:650][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031266s)
+[2023.02.11-18.37.54:650][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.031428s)
+[2023.02.11-18.37.54:650][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.11-18.37.54:651][989]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.11-18.37.54:651][989]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.11-18.37.54:651][989]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.11-18.37.54:654][989]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.11-18.37.54:654][989]LogPlayLevel: PIE: World Init took: (0.003973s)
+[2023.02.11-18.37.54:708][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.02.11-18.37.54:710][989]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.02.11-18.37.54:710][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.11-18.37.54:710][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.11-18.37.54:711][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.11-18.37.54:711][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.11-18.37.54:711][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.11-18.37.54:712][989]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.11-18.37.54:712][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.11-18.37.54:713][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.11-18.37.54:713][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.11-18.37.54:713][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.11-18.37.54:714][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.11-18.37.54:716][989]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.11-18.37.54:740][989]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.11-18.37.54:740][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.11-18.37.54:740][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.11-18.37.54:741][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.11-18.37.54:742][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.02.11-18.37.54:742][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.02.11-18.37.54:743][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.02.11-18.37.54:743][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.02.11-18.37.54:744][989]LogInit: FAudioDevice initialized.
+[2023.02.11-18.37.54:744][989]LogAudio: Display: Audio Device (ID: 26) registered with world 'LevelBase'.
+[2023.02.11-18.37.54:812][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.11-18.37.54:812][989]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.11-18.37.54:816][989]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.11-18.37.54
+[2023.02.11-18.37.54:816][989]LogWorld: Bringing up level for play took: 0.004168
+[2023.02.11-18.37.54:819][989]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.02.11-18.37.54:822][989]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15770.000 Y=-18700.000 Z=380.000
+[2023.02.11-18.37.54:822][989]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.11-18.37.54:822][989]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15770.000 Y=-18700.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.11-18.37.54:843][989]LogStreaming: Display: FlushAsyncLoading: 20 QueuedPackages, 0 AsyncPackages
+[2023.02.11-18.37.54:923][989]PIE: Server logged in
+[2023.02.11-18.37.54:927][989]PIE: Play in editor total start time 0.314 seconds.
+[2023.02.11-18.37.54:955][989]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.11-18.38.30:059][144]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.38.31:130][204]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.38.32:205][265]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.38.33:621][343]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.38.34:668][401]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.38.35:767][460]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.38.37:165][538]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.38.38:209][595]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.38.39:310][654]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.11:781][479]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.11:781][479]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.12:853][536]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.12:854][536]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.13:936][594]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.13:936][594]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.15:347][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.15:348][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.16:419][726]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.16:419][726]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.17:497][781]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.17:498][781]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.18:903][853]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.18:903][853]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.19:964][902]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.19:964][902]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.21:063][956]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.21:063][956]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.22:447][ 23]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.22:447][ 23]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.23:534][ 74]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.23:534][ 74]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.24:625][126]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.24:625][126]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.26:006][190]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.26:006][190]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_33' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.27:081][239]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.27:082][239]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_35' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.28:186][290]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.28:186][290]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_37' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.29:586][351]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.29:587][351]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_39' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.30:635][397]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.30:635][397]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_41' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.47:493][358]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_43' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.49:386][460]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.49:386][460]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_45' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.49:386][460]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.50:451][516]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_47' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.50:452][516]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.50:452][516]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_49' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.51:565][571]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.51:565][571]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_51' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.51:565][571]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.52:942][641]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_53' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.52:943][641]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.52:943][641]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_55' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.53:999][690]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.53:999][690]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_57' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.54:000][690]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.55:124][744]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.55:124][744]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_61' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.55:125][744]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_59' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.56:510][809]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_63' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.56:510][809]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.57:574][857]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_65' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.57:574][857]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.57:574][857]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.58:680][907]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_67' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.58:680][907]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.39.58:681][907]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_69' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.00:065][968]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.00:065][968]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_71' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.01:123][ 16]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.01:123][ 16]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_73' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.01:123][ 16]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.02:250][ 64]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_77' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.02:251][ 64]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_75' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.02:251][ 64]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.03:607][122]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.03:607][122]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_79' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.03:633][123]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.04:704][167]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_83' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.04:704][167]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.04:705][167]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_81' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.05:772][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.05:773][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.05:795][213]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_85' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.07:194][271]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_89' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.07:194][271]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.07:194][271]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_87' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.08:248][316]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.08:249][316]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_91' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.09:351][364]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.10:735][428]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_24.WBP_DamageNumber_C_93' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.40.13:708][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.11-18.40.13:708][596]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.11-18.40.13:710][596]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.11-18.40.13:721][596]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.40.13:723][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.40.13:742][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.11-18.40.13:754][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.40.13:814][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.02.11-18.40.13:816][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.02.11-18.40.13:832][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.11-18.40.14:017][597]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.02.11-18.40.20:470][  9]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.40.21:810][134]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.40.22:223][172]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.40.23:356][276]BlueprintLog: New page: Compile BP_Chest
+[2023.02.11-18.40.23:504][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.11-18.40.23:684][277]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.40.24:060][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Chest" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset" SILENT=true
+[2023.02.11-18.40.24:096][304]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Chest
+[2023.02.11-18.40.24:097][304]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_ChestF4A060704D539C3861C27DAEC816AF59.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset'
+[2023.02.11-18.40.24:116][304]AssetCheck: New page: Asset Save: BP_Chest
+[2023.02.11-18.40.24:116][304]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Chest.BP_Chest
+[2023.02.11-18.43.08:236][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.11-18.43.08:241][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/0/IX/KC4557HIRZCY2UQNFYPCJG_Auto2
+[2023.02.11-18.43.08:241][841]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/KC4557HIRZCY2UQNFYPCJG_Auto2B440D11F46F41836817FD9B79FDA737A.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/0/IX/KC4557HIRZCY2UQNFYPCJG_Auto2.uasset'
+[2023.02.11-18.43.08:245][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/2/SG/OFLG58SR028AHY0N5INM4T_Auto2
+[2023.02.11-18.43.08:245][841]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/OFLG58SR028AHY0N5INM4T_Auto2B4FA25F8433DF1125A788A8F22594D8D.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/2/SG/OFLG58SR028AHY0N5INM4T_Auto2.uasset'
+[2023.02.11-18.43.08:248][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/D/0H/E81KTWIX485K4GYZ1GIZL6_Auto2
+[2023.02.11-18.43.08:248][841]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/E81KTWIX485K4GYZ1GIZL6_Auto284CC9A484864349A5D5C5E9A3151D6BC.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/D/0H/E81KTWIX485K4GYZ1GIZL6_Auto2.uasset'
+[2023.02.11-18.43.08:251][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/2/U3/HIEWPLKKRV1N9IPNIFGZF7_Auto2
+[2023.02.11-18.43.08:251][841]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/HIEWPLKKRV1N9IPNIFGZF7_Auto29B1EFBE445739A0CFD6773B9072ECFDF.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/2/U3/HIEWPLKKRV1N9IPNIFGZF7_Auto2.uasset'
+[2023.02.11-18.43.08:255][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/8/HS/97QXIY52VLJ50BRHU90DBT_Auto2
+[2023.02.11-18.43.08:255][841]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/97QXIY52VLJ50BRHU90DBT_Auto21E636B884BB6357C50A9BDBF8176C385.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/8/HS/97QXIY52VLJ50BRHU90DBT_Auto2.uasset'
+[2023.02.11-18.43.08:259][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/9/TY/VS7CQ3LO4063VLBLG6OP5L_Auto2
+[2023.02.11-18.43.08:259][841]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/VS7CQ3LO4063VLBLG6OP5L_Auto26B731E1242A6EE16928A3E887790AB43.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/9/TY/VS7CQ3LO4063VLBLG6OP5L_Auto2.uasset'
+[2023.02.11-18.43.08:262][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/5/I9/QSSHMUWBHT66Q46LMAK6A7_Auto2
+[2023.02.11-18.43.08:262][841]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/QSSHMUWBHT66Q46LMAK6A7_Auto2F8C5DF8F4D1FB458EF554FB7521E602F.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/5/I9/QSSHMUWBHT66Q46LMAK6A7_Auto2.uasset'
+[2023.02.11-18.43.08:266][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/8/9R/Q4SURDFL0EWC2I840KQU9H_Auto2
+[2023.02.11-18.43.08:266][841]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Q4SURDFL0EWC2I840KQU9H_Auto2CD6686C441069124DDE57496B3221EC6.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/8/9R/Q4SURDFL0EWC2I840KQU9H_Auto2.uasset'
+[2023.02.11-18.43.08:270][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LevelBase/D/MT/ERD1EFBZD9O2DGCL3R89HH_Auto2
+[2023.02.11-18.43.08:270][841]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/ERD1EFBZD9O2DGCL3R89HH_Auto2F8F45CC944984545DDDB6395FE6BE5D4.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Autosaves/Game/__ExternalActors__/LevelBase/D/MT/ERD1EFBZD9O2DGCL3R89HH_Auto2.uasset'
+[2023.02.11-18.43.08:272][841]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelBase' took 0.093
+[2023.02.11-18.43.08:272][841]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2023.02.11-18.45.04:851][463]BlueprintLog: New page: Compile BP_Chest
+[2023.02.11-18.45.04:983][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.11-18.45.05:142][464]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.45.05:502][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Chest" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset" SILENT=true
+[2023.02.11-18.45.05:544][491]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Chest
+[2023.02.11-18.45.05:545][491]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_Chest845E28B64C8FB1392A9485ACCBD6D402.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset'
+[2023.02.11-18.45.05:568][491]AssetCheck: New page: Asset Save: BP_Chest
+[2023.02.11-18.45.05:569][491]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Chest.BP_Chest
+[2023.02.11-18.45.06:424][577]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.11-18.45.06:435][577]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.11-18.45.06:435][577]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.11-18.45.06:435][577]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.11-18.45.06:435][577]LogWorldPartition: Display: ValidateSingleActorReferer took 7 us
+[2023.02.11-18.45.06:436][577]LogWorldPartition: Display: GetPartitionedActors took 509 us
+[2023.02.11-18.45.06:436][577]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.02.11-18.45.06:437][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.11-18.45.06:437][577]PIE: New page: PIE session: LevelBase (11 Feb 2023, 18:45:06)
+[2023.02.11-18.45.06:438][577]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.11-18.45.06:470][577]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.11-18.45.06:471][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033506s)
+[2023.02.11-18.45.06:471][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.033681s)
+[2023.02.11-18.45.06:472][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.11-18.45.06:472][577]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.11-18.45.06:473][577]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.11-18.45.06:473][577]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.11-18.45.06:475][577]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.11-18.45.06:476][577]LogPlayLevel: PIE: World Init took: (0.004262s)
+[2023.02.11-18.45.06:530][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.02.11-18.45.06:532][577]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.02.11-18.45.06:532][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.11-18.45.06:532][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.11-18.45.06:533][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.11-18.45.06:533][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.11-18.45.06:533][577]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.11-18.45.06:534][577]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.11-18.45.06:534][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.11-18.45.06:535][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.11-18.45.06:535][577]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.11-18.45.06:535][577]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.11-18.45.06:536][577]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.11-18.45.06:538][577]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.11-18.45.06:560][577]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.11-18.45.06:561][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.11-18.45.06:561][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.11-18.45.06:561][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.11-18.45.06:562][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.02.11-18.45.06:562][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.02.11-18.45.06:564][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.02.11-18.45.06:564][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.02.11-18.45.06:564][577]LogInit: FAudioDevice initialized.
+[2023.02.11-18.45.06:564][577]LogAudio: Display: Audio Device (ID: 27) registered with world 'LevelBase'.
+[2023.02.11-18.45.06:629][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.11-18.45.06:629][577]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.11-18.45.06:633][577]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.11-18.45.06
+[2023.02.11-18.45.06:634][577]LogWorld: Bringing up level for play took: 0.004062
+[2023.02.11-18.45.06:636][577]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.02.11-18.45.06:639][577]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15770.000 Y=-18700.000 Z=380.000
+[2023.02.11-18.45.06:639][577]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.11-18.45.06:640][577]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15770.000 Y=-18700.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.11-18.45.06:661][577]LogStreaming: Display: FlushAsyncLoading: 20 QueuedPackages, 0 AsyncPackages
+[2023.02.11-18.45.06:736][577]PIE: Server logged in
+[2023.02.11-18.45.06:740][577]PIE: Play in editor total start time 0.309 seconds.
+[2023.02.11-18.45.06:770][577]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.11-18.45.25:517][639]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.26:572][696]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.27:701][756]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.29:087][831]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.30:137][887]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.31:226][943]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.32:633][ 18]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.33:677][ 72]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.34:807][131]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.45:462][729]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.46:509][788]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.47:621][849]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.47:621][849]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.49:000][923]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.49:000][923]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.50:065][980]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.51:155][ 36]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.51:155][ 36]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.52:560][110]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.53:614][163]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.54:712][218]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.54:712][218]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.56:113][287]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.57:165][339]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.58:256][394]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.45.59:656][472]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.46.01:813][592]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.46.05:374][787]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.46.06:767][864]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.46.07:823][921]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.46.08:916][977]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_25.WBP_DamageNumber_C_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.47.57:140][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.11-18.47.57:140][174]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.11-18.47.57:140][174]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.11-18.47.57:148][174]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.47.57:150][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.47.57:167][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.11-18.47.57:177][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.47.57:245][174]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.11-18.47.57:246][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.02.11-18.47.57:248][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.02.11-18.47.57:264][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.11-18.47.57:295][175]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.02.11-18.48.08:006][ 34]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.11-18.48.09:737][174]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.11-18.48.19:755][231]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.48.20:184][275]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.48.20:715][328]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.48.21:179][376]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.48.22:322][503]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.48.23:441][608]BlueprintLog: New page: Compile BP_Chest
+[2023.02.11-18.48.23:601][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.11-18.48.23:881][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Chest" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset" SILENT=true
+[2023.02.11-18.48.23:919][614]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Chest
+[2023.02.11-18.48.23:919][614]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_ChestAF150CCE4BD931513CDD95ABBB5F8FCD.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset'
+[2023.02.11-18.48.23:938][614]AssetCheck: New page: Asset Save: BP_Chest
+[2023.02.11-18.48.23:938][614]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Chest.BP_Chest
+[2023.02.11-18.48.23:959][614]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelBase.
+[2023.02.11-18.48.24:810][657]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.11-18.48.24:822][657]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.11-18.48.24:822][657]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.11-18.48.24:822][657]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.11-18.48.24:823][657]LogWorldPartition: Display: ValidateSingleActorReferer took 6 us
+[2023.02.11-18.48.24:823][657]LogWorldPartition: Display: GetPartitionedActors took 900 us
+[2023.02.11-18.48.24:824][657]LogWorldPartition: Display: GenerateStreaming took 2 ms
+[2023.02.11-18.48.24:824][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.11-18.48.24:824][657]PIE: New page: PIE session: LevelBase (11 Feb 2023, 18:48:24)
+[2023.02.11-18.48.24:825][657]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.11-18.48.24:861][657]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.11-18.48.24:862][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037233s)
+[2023.02.11-18.48.24:862][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.037660s)
+[2023.02.11-18.48.24:863][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.11-18.48.24:863][657]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.11-18.48.24:864][657]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.11-18.48.24:864][657]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.11-18.48.24:867][657]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2023.02.11-18.48.24:867][657]LogPlayLevel: PIE: World Init took: (0.004927s)
+[2023.02.11-18.48.24:928][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.02.11-18.48.24:931][657]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.02.11-18.48.24:931][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.11-18.48.24:931][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.11-18.48.24:932][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.11-18.48.24:932][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.11-18.48.24:932][657]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.11-18.48.24:933][657]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.11-18.48.24:933][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.11-18.48.24:934][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.11-18.48.24:935][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.11-18.48.24:935][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.11-18.48.24:935][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.11-18.48.24:937][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.11-18.48.24:964][657]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.11-18.48.24:965][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.11-18.48.24:965][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.11-18.48.24:965][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.11-18.48.24:966][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.02.11-18.48.24:966][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.02.11-18.48.24:968][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.02.11-18.48.24:968][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.02.11-18.48.24:968][657]LogInit: FAudioDevice initialized.
+[2023.02.11-18.48.24:969][657]LogAudio: Display: Audio Device (ID: 28) registered with world 'LevelBase'.
+[2023.02.11-18.48.25:031][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.11-18.48.25:032][657]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.11-18.48.25:036][657]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.11-18.48.25
+[2023.02.11-18.48.25:037][657]LogWorld: Bringing up level for play took: 0.004750
+[2023.02.11-18.48.25:040][657]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.02.11-18.48.25:043][657]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-4210.000 Y=-9160.000 Z=380.000
+[2023.02.11-18.48.25:043][657]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.11-18.48.25:043][657]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-4210.000 Y=-9160.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.11-18.48.25:064][657]LogStreaming: Display: FlushAsyncLoading: 20 QueuedPackages, 0 AsyncPackages
+[2023.02.11-18.48.25:131][657]PIE: Server logged in
+[2023.02.11-18.48.25:132][657]PIE: Play in editor total start time 0.313 seconds.
+[2023.02.11-18.48.25:176][657]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.11-18.48.34:212][116]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.34:212][116]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.35:256][169]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.35:256][169]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.36:359][223]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.36:359][223]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.36:360][223]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.37:764][292]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.37:764][292]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.38:807][343]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.38:808][343]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.39:922][398]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.39:922][398]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.39:923][398]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.41:326][465]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.41:326][465]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.41:326][465]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.42:371][515]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.42:371][515]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.43:488][565]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.43:488][565]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.43:489][565]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.44:877][630]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.44:877][630]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.45:936][677]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.45:936][677]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.45:937][677]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.47:027][725]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.47:051][726]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.47:051][726]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.48:512][788]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.48:512][788]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.48:513][788]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.49:484][831]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_33' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.50:614][879]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.50:614][879]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_35' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.50:615][879]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.52:024][939]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_39' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.52:024][939]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.52:024][939]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_37' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.53:064][983]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_41' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.53:065][983]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.54:165][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_43' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.54:165][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.55:576][100]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.57:711][205]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_45' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.48.59:130][274]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_26.WBP_DamageNumber_C_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.11-18.49.05:026][590]LogNet: Browse: /Game/LevelBase
+[2023.02.11-18.49.05:026][590]LogLoad: LoadMap: /Game/LevelBase
+[2023.02.11-18.49.05:026][590]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.11-18.49.05:029][590]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.05:031][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.05:031][590]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.05:031][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.05:032][590]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.05:032][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.05:032][590]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.05:033][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.05:033][590]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.05:033][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.05:094][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.11-18.49.05:106][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.11-18.49.05:112][590]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.11-18.49.05:145][590]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.11-18.49.05:146][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033692s)
+[2023.02.11-18.49.05:146][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.033856s)
+[2023.02.11-18.49.05:146][590]LogAudio: Display: Audio Device (ID: 28) registered with world 'LevelBase'.
+[2023.02.11-18.49.05:147][590]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.11-18.49.05:147][590]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.11-18.49.05:148][590]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.11-18.49.05:148][590]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.11-18.49.05:151][590]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2023.02.11-18.49.05:151][590]LogPlayLevel: PIE: World Init took: (0.004434s)
+[2023.02.11-18.49.05:151][590]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.11-18.49.05:155][590]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.11-18.49.05
+[2023.02.11-18.49.05:156][590]LogWorld: Bringing up level for play took: 0.004161
+[2023.02.11-18.49.05:160][590]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-4210.000 Y=-9160.000 Z=380.000
+[2023.02.11-18.49.05:161][590]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.11-18.49.05:161][590]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-4210.000 Y=-9160.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.11-18.49.05:228][590]LogStreaming: Display: FlushAsyncLoading: 20 QueuedPackages, 0 AsyncPackages
+[2023.02.11-18.49.05:256][590]LogLoad: Took 0.228870 seconds to LoadMap(/Game/UEDPIE_0_LevelBase)
+[2023.02.11-18.49.15:449][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.11-18.49.15:449][119]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.11-18.49.15:451][119]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.11-18.49.15:473][119]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.15:475][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.15:491][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.11-18.49.15:501][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.15:564][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.02.11-18.49.15:566][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.02.11-18.49.15:581][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.11-18.49.15:634][120]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.02.11-18.49.17:097][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Chest" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset" SILENT=true
+[2023.02.11-18.49.17:133][264]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Chest
+[2023.02.11-18.49.17:133][264]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_Chest29E18F7B4BF0F7BCE521C9B34815DE3D.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset'
+[2023.02.11-18.49.17:150][264]AssetCheck: New page: Asset Save: BP_Chest
+[2023.02.11-18.49.17:150][264]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Chest.BP_Chest
+[2023.02.11-18.49.25:330][944]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.11-18.49.29:566][293]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.11-18.49.30:797][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.11-18.49.30:865][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/0/EM/NFL0521PI4G3LQVB0ESD24
+[2023.02.11-18.49.30:865][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/NFL0521PI4G3LQVB0ESD24CAEBDF7D4567F134270E7593461C606D.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/0/EM/NFL0521PI4G3LQVB0ESD24.uasset'
+[2023.02.11-18.49.30:875][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/0/IX/KC4557HIRZCY2UQNFYPCJG
+[2023.02.11-18.49.30:876][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/KC4557HIRZCY2UQNFYPCJGEA8BC8ED4B7B8AD9ADE1BFAFDFA1CCDA.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/0/IX/KC4557HIRZCY2UQNFYPCJG.uasset'
+[2023.02.11-18.49.30:879][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/4/HU/HL213CWQZ9XGLAC8A3KQZD
+[2023.02.11-18.49.30:880][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/HL213CWQZ9XGLAC8A3KQZDE198A1274F438C0627A8558E703B0E44.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/4/HU/HL213CWQZ9XGLAC8A3KQZD.uasset'
+[2023.02.11-18.49.30:883][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/B/ER/TZFZQ8TYZ96N4EHQ0IVMC0
+[2023.02.11-18.49.30:884][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/TZFZQ8TYZ96N4EHQ0IVMC02C2CC3894B525DF3304CED9517CCA853.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/B/ER/TZFZQ8TYZ96N4EHQ0IVMC0.uasset'
+[2023.02.11-18.49.30:888][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/C/CT/XBHV0MG1K2HQK4ZC1B5UQG
+[2023.02.11-18.49.30:889][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/XBHV0MG1K2HQK4ZC1B5UQGD976EDB343494CE5A49DE7A7EBBBDFB2.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/C/CT/XBHV0MG1K2HQK4ZC1B5UQG.uasset'
+[2023.02.11-18.49.30:892][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/2/SG/OFLG58SR028AHY0N5INM4T
+[2023.02.11-18.49.30:893][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/OFLG58SR028AHY0N5INM4T9928F5654F205DBA2E042E8DB1FE5F75.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/2/SG/OFLG58SR028AHY0N5INM4T.uasset'
+[2023.02.11-18.49.30:897][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/D/0H/E81KTWIX485K4GYZ1GIZL6
+[2023.02.11-18.49.30:897][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/E81KTWIX485K4GYZ1GIZL6B17B3EA84E7A564F2EAFA3A6789059D7.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/D/0H/E81KTWIX485K4GYZ1GIZL6.uasset'
+[2023.02.11-18.49.30:901][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/2/U3/HIEWPLKKRV1N9IPNIFGZF7
+[2023.02.11-18.49.30:902][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/HIEWPLKKRV1N9IPNIFGZF7B7DBE20F4CEDEF1B813AF39544C95F02.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/2/U3/HIEWPLKKRV1N9IPNIFGZF7.uasset'
+[2023.02.11-18.49.30:906][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/8/HS/97QXIY52VLJ50BRHU90DBT
+[2023.02.11-18.49.30:907][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/97QXIY52VLJ50BRHU90DBT43F5D1B3446BC16816F8F3824AF196C2.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/8/HS/97QXIY52VLJ50BRHU90DBT.uasset'
+[2023.02.11-18.49.30:910][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/9/TY/VS7CQ3LO4063VLBLG6OP5L
+[2023.02.11-18.49.30:911][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/VS7CQ3LO4063VLBLG6OP5L887E3F9D4B4B344D5C6F28BB5586CC81.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/9/TY/VS7CQ3LO4063VLBLG6OP5L.uasset'
+[2023.02.11-18.49.30:914][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/5/I9/QSSHMUWBHT66Q46LMAK6A7
+[2023.02.11-18.49.30:915][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/QSSHMUWBHT66Q46LMAK6A7599B867446F38383A6744FBF08CE8B32.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/5/I9/QSSHMUWBHT66Q46LMAK6A7.uasset'
+[2023.02.11-18.49.30:919][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/8/9R/Q4SURDFL0EWC2I840KQU9H
+[2023.02.11-18.49.30:919][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Q4SURDFL0EWC2I840KQU9H3C1B9F274898DC0EE48E399410D94A70.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/8/9R/Q4SURDFL0EWC2I840KQU9H.uasset'
+[2023.02.11-18.49.30:924][388]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LevelBase/D/MT/ERD1EFBZD9O2DGCL3R89HH
+[2023.02.11-18.49.30:925][388]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/ERD1EFBZD9O2DGCL3R89HHA5D9B8174D229BF6E9E9E485878F9982.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/__ExternalActors__/LevelBase/D/MT/ERD1EFBZD9O2DGCL3R89HH.uasset'
+[2023.02.11-18.49.30:946][388]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.11-18.49.30:946][388]LogContentValidation: Display: Validating PlayerStart /Game/LevelBase.LevelBase:PersistentLevel.PlayerStart_UAID_A4BB6D9AB736B36201_1396552151
+[2023.02.11-18.49.30:947][388]LogContentValidation: Display: Validating BP_MeleeEnemyParent_C /Game/LevelBase.LevelBase:PersistentLevel.BP_MeleeEnemyParent_C_UAID_D8BBC10BF87BD16201_1428298431
+[2023.02.11-18.49.30:947][388]LogContentValidation: Display: Validating BP_MeleeEnemyParent_C /Game/LevelBase.LevelBase:PersistentLevel.BP_MeleeEnemyParent_C_UAID_D8BBC10BF87BAC6401_1606505054
+[2023.02.11-18.49.30:947][388]LogContentValidation: Display: Validating BP_MeleeEnemyParent_C /Game/LevelBase.LevelBase:PersistentLevel.BP_MeleeEnemyParent_C_UAID_D8BBC10BF87BAC6401_1607997055
+[2023.02.11-18.49.30:947][388]LogContentValidation: Display: Validating BP_Chest_C /Game/LevelBase.LevelBase:PersistentLevel.BP_Chest_C_UAID_D8BBC10BF87B5B6501_1760540832
+[2023.02.11-18.49.30:948][388]LogContentValidation: Display: Validating BP_Chest_C /Game/LevelBase.LevelBase:PersistentLevel.BP_Chest_C_UAID_A4BB6D9A804DF56401_1233281882
+[2023.02.11-18.49.30:948][388]LogContentValidation: Display: Validating BP_Chest_C /Game/LevelBase.LevelBase:PersistentLevel.BP_Chest_C_UAID_A4BB6D9A804DF56401_1239300883
+[2023.02.11-18.49.30:948][388]LogContentValidation: Display: Validating BP_Chest_C /Game/LevelBase.LevelBase:PersistentLevel.BP_Chest_C_UAID_D8BBC10BF87B5B6501_2072487842
+[2023.02.11-18.49.30:948][388]LogContentValidation: Display: Validating BP_Chest_C /Game/LevelBase.LevelBase:PersistentLevel.BP_Chest_C_UAID_A4BB6D9A804DF36401_1339537528
+[2023.02.11-18.49.30:949][388]LogContentValidation: Display: Validating BP_Chest_C /Game/LevelBase.LevelBase:PersistentLevel.BP_Chest_C_UAID_A4BB6D9A804DF36401_1336827527
+[2023.02.11-18.49.30:949][388]LogContentValidation: Display: Validating BP_Chest_C /Game/LevelBase.LevelBase:PersistentLevel.BP_Chest_C_UAID_A4BB6D9A804DE76401_2000095433
+[2023.02.11-18.49.30:949][388]LogContentValidation: Display: Validating BP_Chest_C /Game/LevelBase.LevelBase:PersistentLevel.BP_Chest_C_UAID_A4BB6D9A804DF36401_1341275529
+[2023.02.11-18.49.30:949][388]LogContentValidation: Display: Validating BP_Chest_C /Game/LevelBase.LevelBase:PersistentLevel.BP_Chest_C_UAID_D8BBC10BF87B5B6501_1984523837
+[2023.02.11-18.49.32:416][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.11-18.49.32:444][519]LogStall: Shutdown...
+[2023.02.11-18.49.32:481][519]LogStall: Shutdown complete.
+[2023.02.11-18.49.32:561][519]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.11-18.49.32:561][519]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.32:562][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.32:746][519]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.11-18.49.32:746][519]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.32:746][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.32:887][519]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.11-18.49.32:887][519]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.32:887][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.11-18.49.33:093][519]LogSlate: Window 'GamesJam3 - Unreal Editor' being destroyed
+[2023.02.11-18.49.33:684][520]Cmd: QUIT_EDITOR
+[2023.02.11-18.49.33:684][520]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.11-18.49.33:721][520]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.11-18.49.33:741][520]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.02.11-18.49.33:741][520]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.02.11-18.49.35:185][520]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.11-18.49.35:185][520]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.11-18.49.35:185][520]LogAudio: Display: Audio Device unregistered from world 'LevelBase'.
+[2023.02.11-18.49.35:203][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.11-18.49.35:205][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.11-18.49.35:216][520]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.11-18.49.35:290][520]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.11-18.49.35:334][520]LogExit: Preparing to exit.
+[2023.02.11-18.49.35:702][520]LogUObjectHash: Compacting FUObjectHashTables data took  55.08ms
+[2023.02.11-18.49.35:726][520]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:726][520]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:730][520]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:731][520]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:731][520]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:731][520]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:731][520]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:732][520]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:732][520]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:732][520]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.35:732][520]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.11-18.49.36:739][520]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:745][520]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:751][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:751][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:751][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:751][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:751][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:752][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:752][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:752][520]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:758][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:759][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:759][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:759][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:759][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:759][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:760][520]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.11-18.49.36:760][520]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:766][520]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:772][520]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:778][520]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:783][520]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:790][520]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:796][520]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:801][520]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:807][520]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.36:923][520]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.11-18.49.37:638][520]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.11-18.49.37:666][520]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.11-18.49.37:758][520]LogExit: Editor shut down
+[2023.02.11-18.49.37:764][520]LogExit: Transaction tracking system shut down
+[2023.02.11-18.49.37:874][520]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
