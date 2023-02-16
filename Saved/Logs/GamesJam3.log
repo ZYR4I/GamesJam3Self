@@ -73193,3 +73193,1350 @@ Script Stack (0 frames):
 [2023.02.16-02.23.33:989][168]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParent3C708D3D4E59F3B61A8D4A8BAD1995A8.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
 [2023.02.16-02.23.34:011][168]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
 [2023.02.16-02.23.34:011][168]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.27.24:743][239]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.27.25:105][239]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_71
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0175
+[2023.02.16-02.27.25:105][239]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_71
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A7
+[2023.02.16-02.27.25:105][239]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_71
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025D
+[2023.02.16-02.27.25:173][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.16-02.27.25:747][263]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.27.25:748][263]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParent5CC49E3A4A484202C467C4871EDB1CA1.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.27.25:767][263]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.27.25:767][263]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.27.30:820][773]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.27.30:996][773]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_72
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0175
+[2023.02.16-02.27.30:996][773]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_72
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A7
+[2023.02.16-02.27.30:996][773]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_72
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025D
+[2023.02.16-02.27.31:046][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.02.16-02.27.31:623][801]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.27.31:624][801]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParent2FAD74144D93849A15AF828B46033A34.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.27.31:643][801]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.27.31:643][801]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.27.44:323][902]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Player/Mesh/AbilityAnims/Spin.Spin
+[2023.02.16-02.27.44:405][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.27.44:451][902]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.16-02.27.45:016][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.27.45:399][902]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.16-02.27.45:405][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.27.45:426][902]LogViewport: Scene viewport resized to 863x361, mode Windowed.
+[2023.02.16-02.27.45:515][902]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.16-02.27.51:329][265]LogSlate: Window 'Spin' being destroyed
+[2023.02.16-02.27.51:336][265]LogSlate: Window 'Spin' being destroyed
+[2023.02.16-02.27.51:337][265]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.27.51:337][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.27.51:364][265]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.27.51:364][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.27.51:497][265]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.27.51:497][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.27.56:109][712]LogContentBrowser: Deferred new asset file creation: Spin_Montage
+[2023.02.16-02.27.56:130][712]LogContentBrowser: Creating deferred item: Spin_Montage
+[2023.02.16-02.27.56:138][713]LogContentBrowser: Renaming the item being created (Deferred Item: Spin_Montage).
+[2023.02.16-02.27.59:964][122]LogContentBrowser: Attempting asset rename: Spin_Montage -> AM_Spin
+[2023.02.16-02.28.00:067][122]LogContentBrowser: End creating deferred item Spin_Montage
+[2023.02.16-02.28.05:256][528]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Player/Mesh/AbilityAnims/AM_Spin.AM_Spin
+[2023.02.16-02.28.05:257][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.28.05:277][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_85:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.16-02.28.05:495][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.28.05:699][528]LogViewport: Scene viewport resized to 863x361, mode Windowed.
+[2023.02.16-02.28.40:313][767]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.16-02.29.09:923][843]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Mesh/AbilityAnims/AM_Spin
+[2023.02.16-02.29.09:923][843]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/AM_SpinCCF8D7E843A68726D7C429A2240A72CE.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Mesh/AbilityAnims/AM_Spin.uasset'
+[2023.02.16-02.29.09:951][843]AssetCheck: New page: Asset Save: AM_Spin
+[2023.02.16-02.29.09:951][843]LogContentValidation: Display: Validating AnimMontage /Game/Blueprints/Player/Mesh/AbilityAnims/AM_Spin.AM_Spin
+[2023.02.16-02.29.11:264][915]LogSlate: Window 'AM_Spin' being destroyed
+[2023.02.16-02.29.11:271][915]LogSlate: Window 'AM_Spin' being destroyed
+[2023.02.16-02.29.11:271][915]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.29.11:271][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.29.11:409][915]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.29.11:409][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.29.16:910][395]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation
+[2023.02.16-02.29.16:911][395]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.29.16:953][395]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.29.16:962][395]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.16-02.29.17:495][395]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.29.17:715][395]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.02.16-02.29.45:862][428]BlueprintLog: New page: Compile ABP_PlayerAnimation
+[2023.02.16-02.29.45:896][428]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_73
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.29.45:896][428]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_73
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.29.45:897][428]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_73
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.29.45:966][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.16-02.29.46:540][473]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation
+[2023.02.16-02.29.46:541][473]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/ABP_PlayerAnimation84B92C0749AE0210D80EAEA916B09DAB.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Mesh/ABP_PlayerAnimation.uasset'
+[2023.02.16-02.29.46:562][473]AssetCheck: New page: Asset Save: ABP_PlayerAnimation
+[2023.02.16-02.29.46:562][473]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation
+[2023.02.16-02.30.15:822][948]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.30.15:975][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_2
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.30.15:975][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_2
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.30.15:975][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_2
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.30.15:976][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_74
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.30.15:976][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_74
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.30.15:976][948]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_74
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.30.16:028][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.16-02.30.16:749][963]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.30.16:749][963]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParent4462089D46C601CCDE8E12B0076663DA.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.30.16:768][963]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.30.16:768][963]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.32.11:381][422]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.32.11:544][422]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_75
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.32.11:545][422]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_75
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.32.11:545][422]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_75
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.32.11:545][422]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_3
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.32.11:609][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.02.16-02.32.53:841][947]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.32.53:980][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_4
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.32.53:981][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_4
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.32.53:981][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_4
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.32.53:981][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_76
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.32.53:981][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_76
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.32.53:981][947]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_76
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.32.54:038][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.02.16-02.32.54:745][960]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.32.54:746][960]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParentD852A8F54F7B93A02BB838B7A617B8FC.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.32.54:764][960]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.32.54:764][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.34.00:894][676]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.34.01:040][676]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_77
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.34.01:040][676]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_77
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.34.01:040][676]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_77
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.34.01:041][676]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_5
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.34.01:041][676]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_5
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.34.01:041][676]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_5
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.34.01:095][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.02.16-02.34.02:115][721]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.34.02:115][721]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParentD98AE35F4199D51F7FAC7FB21F258227.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.34.02:136][721]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.34.02:137][721]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.34.24:199][912]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.34.24:208][912]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.34.24:208][912]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.34.24:208][912]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.34.24:208][912]LogWorldPartition: Display: ValidateSingleActorReferer took 4 us
+[2023.02.16-02.34.24:208][912]LogWorldPartition: Display: GetPartitionedActors took 49 us
+[2023.02.16-02.34.24:209][912]LogWorldPartition: Display: GenerateStreaming took 406 us
+[2023.02.16-02.34.24:209][912]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.16-02.34.24:217][912]LogPlayLevel: [PlayLevel] Compiling ABP_PlayerAnimation before play...
+[2023.02.16-02.34.24:221][912]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerCharacterParent as a dependent...
+[2023.02.16-02.34.24:356][912]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_78
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.34.24:356][912]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_78
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.34.24:356][912]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_78
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.34.24:599][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.16-02.34.24:617][912]LogPlayLevel: PlayLevel: Blueprint regeneration took 408 ms (2 blueprints)
+[2023.02.16-02.34.24:617][912]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:34:24)
+[2023.02.16-02.34.24:617][912]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.34.24:643][912]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.34.24:643][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025647s)
+[2023.02.16-02.34.24:643][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.025697s)
+[2023.02.16-02.34.24:643][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.34.24:643][912]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.34.24:643][912]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.34.24:644][912]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.34.24:646][912]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.34.24:646][912]LogPlayLevel: PIE: World Init took: (0.003177s)
+[2023.02.16-02.34.24:690][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.16-02.34.24:693][912]LogAudio: Display: Creating Audio Device:                 Id: 148, Scope: Unique, Realtime: True
+[2023.02.16-02.34.24:693][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.34.24:693][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.34.24:693][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.34.24:693][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.34.24:693][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.34.24:693][912]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.34.24:693][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.34.24:693][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.34.24:693][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.34.24:693][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.34.24:693][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.34.24:695][912]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.34.24:715][912]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.34.24:715][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.34.24:715][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.34.24:715][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.34.24:716][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=148
+[2023.02.16-02.34.24:716][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=148
+[2023.02.16-02.34.24:717][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=148
+[2023.02.16-02.34.24:717][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=148
+[2023.02.16-02.34.24:717][912]LogInit: FAudioDevice initialized.
+[2023.02.16-02.34.24:717][912]LogAudio: Display: Audio Device (ID: 148) registered with world 'LevelBase'.
+[2023.02.16-02.34.24:779][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.34.24:779][912]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.34.24:782][912]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.34.24
+[2023.02.16-02.34.24:783][912]LogWorld: Bringing up level for play took: 0.004052
+[2023.02.16-02.34.24:785][912]LogOnline: OSS: Created online subsystem instance for: :Context_236
+[2023.02.16-02.34.24:788][912]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.34.24:788][912]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.34.24:788][912]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.34.24:789][912]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.34.24:950][912]PIE: Server logged in
+[2023.02.16-02.34.24:950][912]PIE: Play in editor total start time 0.744 seconds.
+[2023.02.16-02.34.25:210][912]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.34.34:893][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.34.34:893][477]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.34.34:895][477]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.34.34:907][477]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.34.34:908][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.34.34:921][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.34.34:931][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.34.34:987][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=148
+[2023.02.16-02.34.34:988][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=148
+[2023.02.16-02.34.35:001][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.16-02.34.35:046][478]LogPlayLevel: Display: Destroying online subsystem :Context_236
+[2023.02.16-02.34.53:492][164]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.34.53:628][164]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_79
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.34.53:628][164]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_79
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.34.53:628][164]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_79
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.34.53:682][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.02.16-02.34.54:280][166]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.34.54:281][166]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParent9C5A6DF34BDCA11A8EBE3AB24390B6C2.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.34.54:299][166]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.34.54:299][166]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.34.55:271][254]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.34.55:279][254]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.34.55:279][254]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.34.55:280][254]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.34.55:280][254]LogWorldPartition: Display: ValidateSingleActorReferer took 3 us
+[2023.02.16-02.34.55:280][254]LogWorldPartition: Display: GetPartitionedActors took 53 us
+[2023.02.16-02.34.55:280][254]LogWorldPartition: Display: GenerateStreaming took 391 us
+[2023.02.16-02.34.55:280][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.16-02.34.55:280][254]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:34:55)
+[2023.02.16-02.34.55:280][254]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.34.55:312][254]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.34.55:312][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031286s)
+[2023.02.16-02.34.55:312][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.031333s)
+[2023.02.16-02.34.55:312][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.34.55:312][254]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.34.55:312][254]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.34.55:313][254]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.34.55:315][254]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.34.55:315][254]LogPlayLevel: PIE: World Init took: (0.003336s)
+[2023.02.16-02.34.55:363][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.02.16-02.34.55:379][254]LogAudio: Display: Creating Audio Device:                 Id: 149, Scope: Unique, Realtime: True
+[2023.02.16-02.34.55:379][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.34.55:379][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.34.55:379][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.34.55:379][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.34.55:379][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.34.55:379][254]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.34.55:379][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.34.55:379][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.34.55:380][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.34.55:380][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.34.55:380][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.34.55:381][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.34.55:400][254]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.34.55:401][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.34.55:401][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.34.55:401][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.34.55:401][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=149
+[2023.02.16-02.34.55:401][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=149
+[2023.02.16-02.34.55:403][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=149
+[2023.02.16-02.34.55:403][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=149
+[2023.02.16-02.34.55:403][254]LogInit: FAudioDevice initialized.
+[2023.02.16-02.34.55:403][254]LogAudio: Display: Audio Device (ID: 149) registered with world 'LevelBase'.
+[2023.02.16-02.34.55:444][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.34.55:444][254]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.34.55:447][254]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.34.55
+[2023.02.16-02.34.55:448][254]LogWorld: Bringing up level for play took: 0.003391
+[2023.02.16-02.34.55:450][254]LogOnline: OSS: Created online subsystem instance for: :Context_237
+[2023.02.16-02.34.55:453][254]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.34.55:453][254]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.34.55:453][254]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.34.55:454][254]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.34.55:551][254]PIE: Server logged in
+[2023.02.16-02.34.55:560][254]PIE: Play in editor total start time 0.282 seconds.
+[2023.02.16-02.34.55:625][254]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.35.01:477][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.35.01:477][600]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.35.01:478][600]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.35.01:490][600]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.35.01:491][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.35.01:507][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.35.01:517][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.35.01:572][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=149
+[2023.02.16-02.35.01:574][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=149
+[2023.02.16-02.35.01:588][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.02.16-02.35.01:617][601]LogPlayLevel: Display: Destroying online subsystem :Context_237
+[2023.02.16-02.35.02:470][679]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.35.02:478][679]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.35.02:478][679]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.35.02:478][679]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.35.02:478][679]LogWorldPartition: Display: ValidateSingleActorReferer took 4 us
+[2023.02.16-02.35.02:478][679]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.02.16-02.35.02:478][679]LogWorldPartition: Display: GenerateStreaming took 370 us
+[2023.02.16-02.35.02:478][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.16-02.35.02:478][679]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:35:02)
+[2023.02.16-02.35.02:479][679]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.35.02:504][679]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.35.02:504][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025208s)
+[2023.02.16-02.35.02:504][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.025257s)
+[2023.02.16-02.35.02:504][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.35.02:505][679]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.35.02:505][679]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.35.02:505][679]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.35.02:507][679]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.35.02:507][679]LogPlayLevel: PIE: World Init took: (0.002931s)
+[2023.02.16-02.35.02:552][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.16-02.35.02:555][679]LogAudio: Display: Creating Audio Device:                 Id: 150, Scope: Unique, Realtime: True
+[2023.02.16-02.35.02:556][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.35.02:556][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.35.02:556][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.35.02:556][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.35.02:556][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.35.02:556][679]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.35.02:556][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.35.02:556][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.35.02:556][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.35.02:556][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.35.02:556][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.35.02:558][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.35.02:576][679]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.35.02:576][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.35.02:576][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.35.02:576][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.35.02:577][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=150
+[2023.02.16-02.35.02:577][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=150
+[2023.02.16-02.35.02:578][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=150
+[2023.02.16-02.35.02:578][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=150
+[2023.02.16-02.35.02:578][679]LogInit: FAudioDevice initialized.
+[2023.02.16-02.35.02:578][679]LogAudio: Display: Audio Device (ID: 150) registered with world 'LevelBase'.
+[2023.02.16-02.35.02:625][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.35.02:625][679]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.35.02:628][679]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.35.02
+[2023.02.16-02.35.02:628][679]LogWorld: Bringing up level for play took: 0.003207
+[2023.02.16-02.35.02:630][679]LogOnline: OSS: Created online subsystem instance for: :Context_238
+[2023.02.16-02.35.02:633][679]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.35.02:633][679]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.35.02:633][679]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.35.02:634][679]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.35.02:727][679]PIE: Server logged in
+[2023.02.16-02.35.02:737][679]PIE: Play in editor total start time 0.26 seconds.
+[2023.02.16-02.35.02:800][679]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.35.24:962][960]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_148.WBP_DamageNumber_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.35.28:779][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.35.28:779][176]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.35.28:781][176]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.35.28:792][176]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.35.28:793][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.35.28:811][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.35.28:823][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.35.28:874][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=150
+[2023.02.16-02.35.28:875][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=150
+[2023.02.16-02.35.28:889][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.02.16-02.35.28:919][177]LogPlayLevel: Display: Destroying online subsystem :Context_238
+[2023.02.16-02.36.00:743][414]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.36.00:752][414]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.36.00:753][414]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.36.00:753][414]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.36.00:753][414]LogWorldPartition: Display: ValidateSingleActorReferer took 4 us
+[2023.02.16-02.36.00:753][414]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2023.02.16-02.36.00:753][414]LogWorldPartition: Display: GenerateStreaming took 411 us
+[2023.02.16-02.36.00:753][414]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.16-02.36.00:762][414]LogPlayLevel: [PlayLevel] Compiling ABP_PlayerAnimation before play...
+[2023.02.16-02.36.00:766][414]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerCharacterParent as a dependent...
+[2023.02.16-02.36.00:899][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.36.00:900][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.36.00:900][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.36.00:900][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_80
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.36.00:900][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_80
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.36.00:900][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_80
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.36.01:160][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.16-02.36.01:176][414]LogPlayLevel: PlayLevel: Blueprint regeneration took 423 ms (2 blueprints)
+[2023.02.16-02.36.01:177][414]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:36:01)
+[2023.02.16-02.36.01:177][414]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.36.01:205][414]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.36.01:205][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028588s)
+[2023.02.16-02.36.01:205][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.028637s)
+[2023.02.16-02.36.01:205][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.36.01:206][414]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.36.01:206][414]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.36.01:206][414]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.36.01:208][414]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.36.01:208][414]LogPlayLevel: PIE: World Init took: (0.002958s)
+[2023.02.16-02.36.01:252][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.02.16-02.36.01:256][414]LogAudio: Display: Creating Audio Device:                 Id: 151, Scope: Unique, Realtime: True
+[2023.02.16-02.36.01:256][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.36.01:256][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.36.01:256][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.36.01:256][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.36.01:256][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.36.01:256][414]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.36.01:256][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.36.01:256][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.36.01:256][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.36.01:256][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.36.01:256][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.36.01:258][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.36.01:278][414]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.36.01:278][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.36.01:278][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.36.01:278][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.36.01:279][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=151
+[2023.02.16-02.36.01:279][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=151
+[2023.02.16-02.36.01:280][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=151
+[2023.02.16-02.36.01:280][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=151
+[2023.02.16-02.36.01:280][414]LogInit: FAudioDevice initialized.
+[2023.02.16-02.36.01:280][414]LogAudio: Display: Audio Device (ID: 151) registered with world 'LevelBase'.
+[2023.02.16-02.36.01:345][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.36.01:345][414]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.36.01:348][414]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.36.01
+[2023.02.16-02.36.01:349][414]LogWorld: Bringing up level for play took: 0.003916
+[2023.02.16-02.36.01:352][414]LogOnline: OSS: Created online subsystem instance for: :Context_239
+[2023.02.16-02.36.01:355][414]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.36.01:355][414]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.36.01:355][414]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.36.01:356][414]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.36.01:443][414]PIE: Server logged in
+[2023.02.16-02.36.01:444][414]PIE: Play in editor total start time 0.694 seconds.
+[2023.02.16-02.36.01:680][414]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.36.07:975][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.36.07:975][799]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.36.07:977][799]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.36.07:987][799]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.36.07:989][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.36.08:004][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.36.08:014][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.36.08:061][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.16-02.36.08:065][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=151
+[2023.02.16-02.36.08:066][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=151
+[2023.02.16-02.36.08:080][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.02.16-02.36.08:114][800]LogPlayLevel: Display: Destroying online subsystem :Context_239
+[2023.02.16-02.36.09:206][909]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.36.09:207][909]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.36.09:207][909]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.36.09:229][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.36.09:229][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0183
+[2023.02.16-02.36.09:229][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0239
+[2023.02.16-02.36.09:237][911]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_8
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0151
+[2023.02.16-02.36.18:108][815]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.36.18:119][815]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.36.18:119][815]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.36.18:119][815]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.36.18:119][815]LogWorldPartition: Display: ValidateSingleActorReferer took 4 us
+[2023.02.16-02.36.18:119][815]LogWorldPartition: Display: GetPartitionedActors took 74 us
+[2023.02.16-02.36.18:119][815]LogWorldPartition: Display: GenerateStreaming took 480 us
+[2023.02.16-02.36.18:120][815]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.16-02.36.18:120][815]LogPlayLevel: [PlayLevel] Compiling ABP_PlayerAnimation before play...
+[2023.02.16-02.36.18:155][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_81
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.36.18:156][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_81
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.36.18:156][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_81
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.36.18:156][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.36.18:156][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.36.18:156][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.36.18:237][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.16-02.36.18:242][815]LogPlayLevel: PlayLevel: Blueprint regeneration took 122 ms (1 blueprints)
+[2023.02.16-02.36.18:243][815]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:36:18)
+[2023.02.16-02.36.18:243][815]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.36.18:270][815]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.36.18:270][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027519s)
+[2023.02.16-02.36.18:270][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.027570s)
+[2023.02.16-02.36.18:270][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.36.18:271][815]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.36.18:271][815]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.36.18:271][815]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.36.18:273][815]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.36.18:273][815]LogPlayLevel: PIE: World Init took: (0.003072s)
+[2023.02.16-02.36.18:318][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.16-02.36.18:322][815]LogAudio: Display: Creating Audio Device:                 Id: 152, Scope: Unique, Realtime: True
+[2023.02.16-02.36.18:322][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.36.18:322][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.36.18:322][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.36.18:322][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.36.18:322][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.36.18:322][815]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.36.18:322][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.36.18:322][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.36.18:323][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.36.18:323][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.36.18:323][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.36.18:324][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.36.18:343][815]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.36.18:343][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.36.18:343][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.36.18:343][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.36.18:343][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=152
+[2023.02.16-02.36.18:343][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=152
+[2023.02.16-02.36.18:345][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=152
+[2023.02.16-02.36.18:345][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=152
+[2023.02.16-02.36.18:345][815]LogInit: FAudioDevice initialized.
+[2023.02.16-02.36.18:345][815]LogAudio: Display: Audio Device (ID: 152) registered with world 'LevelBase'.
+[2023.02.16-02.36.18:393][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.36.18:393][815]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.36.18:396][815]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.36.18
+[2023.02.16-02.36.18:397][815]LogWorld: Bringing up level for play took: 0.003384
+[2023.02.16-02.36.18:399][815]LogOnline: OSS: Created online subsystem instance for: :Context_240
+[2023.02.16-02.36.18:401][815]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.36.18:401][815]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.36.18:401][815]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.36.18:402][815]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.36.18:488][815]PIE: Server logged in
+[2023.02.16-02.36.18:489][815]PIE: Play in editor total start time 0.372 seconds.
+[2023.02.16-02.36.18:569][815]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.36.18:755][817]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.36.18:755][817]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.36.18:755][817]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.36.18:799][818]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.36.18:799][818]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.36.18:799][818]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.36.18:828][819]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_9
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.36.27:477][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.36.27:477][242]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.36.27:478][242]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.36.27:491][242]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.36.27:493][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.36.27:507][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.36.27:517][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.36.27:567][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=152
+[2023.02.16-02.36.27:568][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=152
+[2023.02.16-02.36.27:580][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.16-02.36.27:607][243]LogPlayLevel: Display: Destroying online subsystem :Context_240
+[2023.02.16-02.36.29:461][424]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation
+[2023.02.16-02.36.29:462][424]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/ABP_PlayerAnimationA790321A4A158F3689C30E9F30B04AFA.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Mesh/ABP_PlayerAnimation.uasset'
+[2023.02.16-02.36.29:479][424]AssetCheck: New page: Asset Save: ABP_PlayerAnimation
+[2023.02.16-02.36.29:479][424]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation
+[2023.02.16-02.36.31:156][572]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.36.31:157][572]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParentCDAE776E49C3054088888FB01659BE99.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.36.31:177][572]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.36.31:177][572]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.36.54:018][936]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.36.54:253][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_10
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.36.54:253][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_10
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.36.54:253][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_10
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.36.54:253][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_82
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.36.54:253][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_82
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.36.54:253][936]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_82
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.36.54:321][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.02.16-02.36.55:589][ 18]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.36.55:590][ 18]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParent7A4D017E40BD3F84BF248A99922597CA.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.36.55:608][ 18]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.36.55:608][ 18]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.36.57:591][226]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.36.57:599][226]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.36.57:599][226]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.36.57:599][226]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.36.57:599][226]LogWorldPartition: Display: ValidateSingleActorReferer took 4 us
+[2023.02.16-02.36.57:599][226]LogWorldPartition: Display: GetPartitionedActors took 65 us
+[2023.02.16-02.36.57:600][226]LogWorldPartition: Display: GenerateStreaming took 480 us
+[2023.02.16-02.36.57:600][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.16-02.36.57:600][226]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:36:57)
+[2023.02.16-02.36.57:600][226]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.36.57:624][226]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.36.57:624][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023939s)
+[2023.02.16-02.36.57:624][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.023990s)
+[2023.02.16-02.36.57:624][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.36.57:625][226]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.36.57:625][226]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.36.57:625][226]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.36.57:627][226]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.36.57:627][226]LogPlayLevel: PIE: World Init took: (0.002935s)
+[2023.02.16-02.36.57:676][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.16-02.36.57:694][226]LogAudio: Display: Creating Audio Device:                 Id: 153, Scope: Unique, Realtime: True
+[2023.02.16-02.36.57:694][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.36.57:694][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.36.57:694][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.36.57:694][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.36.57:694][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.36.57:694][226]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.36.57:694][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.36.57:694][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.36.57:695][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.36.57:695][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.36.57:695][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.36.57:696][226]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.36.57:715][226]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.36.57:715][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.36.57:715][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.36.57:715][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.36.57:715][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=153
+[2023.02.16-02.36.57:715][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=153
+[2023.02.16-02.36.57:718][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=153
+[2023.02.16-02.36.57:718][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=153
+[2023.02.16-02.36.57:718][226]LogInit: FAudioDevice initialized.
+[2023.02.16-02.36.57:718][226]LogAudio: Display: Audio Device (ID: 153) registered with world 'LevelBase'.
+[2023.02.16-02.36.57:777][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.36.57:777][226]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.36.57:780][226]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.36.57
+[2023.02.16-02.36.57:781][226]LogWorld: Bringing up level for play took: 0.003359
+[2023.02.16-02.36.57:783][226]LogOnline: OSS: Created online subsystem instance for: :Context_241
+[2023.02.16-02.36.57:786][226]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.36.57:786][226]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.36.57:786][226]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.36.57:787][226]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.36.57:873][226]PIE: Server logged in
+[2023.02.16-02.36.57:874][226]PIE: Play in editor total start time 0.276 seconds.
+[2023.02.16-02.36.57:936][226]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.37.05:803][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.37.05:803][715]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.37.05:804][715]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.37.05:814][715]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.37.05:815][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.37.05:830][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.37.05:842][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.37.05:891][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=153
+[2023.02.16-02.37.05:892][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=153
+[2023.02.16-02.37.05:906][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.02.16-02.37.05:936][716]LogPlayLevel: Display: Destroying online subsystem :Context_241
+[2023.02.16-02.37.07:989][940]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.37.07:998][940]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.37.07:998][940]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.37.07:998][940]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.37.07:998][940]LogWorldPartition: Display: ValidateSingleActorReferer took 4 us
+[2023.02.16-02.37.07:998][940]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2023.02.16-02.37.07:998][940]LogWorldPartition: Display: GenerateStreaming took 390 us
+[2023.02.16-02.37.07:998][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.16-02.37.07:998][940]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:37:07)
+[2023.02.16-02.37.07:998][940]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.37.08:024][940]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.37.08:024][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025297s)
+[2023.02.16-02.37.08:024][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.025348s)
+[2023.02.16-02.37.08:024][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.37.08:024][940]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.37.08:025][940]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.37.08:025][940]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.37.08:027][940]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.37.08:027][940]LogPlayLevel: PIE: World Init took: (0.002980s)
+[2023.02.16-02.37.08:069][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.02.16-02.37.08:072][940]LogAudio: Display: Creating Audio Device:                 Id: 154, Scope: Unique, Realtime: True
+[2023.02.16-02.37.08:072][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.37.08:072][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.37.08:072][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.37.08:072][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.37.08:072][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.37.08:072][940]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.37.08:072][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.37.08:072][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.37.08:073][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.37.08:073][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.37.08:073][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.37.08:074][940]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.37.08:093][940]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.37.08:093][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.37.08:093][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.37.08:093][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.37.08:093][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=154
+[2023.02.16-02.37.08:093][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=154
+[2023.02.16-02.37.08:095][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=154
+[2023.02.16-02.37.08:095][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=154
+[2023.02.16-02.37.08:095][940]LogInit: FAudioDevice initialized.
+[2023.02.16-02.37.08:095][940]LogAudio: Display: Audio Device (ID: 154) registered with world 'LevelBase'.
+[2023.02.16-02.37.08:144][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.37.08:144][940]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.37.08:147][940]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.37.08
+[2023.02.16-02.37.08:148][940]LogWorld: Bringing up level for play took: 0.003419
+[2023.02.16-02.37.08:150][940]LogOnline: OSS: Created online subsystem instance for: :Context_242
+[2023.02.16-02.37.08:154][940]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.37.08:154][940]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.37.08:154][940]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.37.08:155][940]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.37.08:244][940]PIE: Server logged in
+[2023.02.16-02.37.08:245][940]PIE: Play in editor total start time 0.249 seconds.
+[2023.02.16-02.37.08:313][940]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.37.16:054][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.37.16:054][434]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.37.16:056][434]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.37.16:066][434]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.37.16:068][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.37.16:079][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.37.16:090][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.37.16:140][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=154
+[2023.02.16-02.37.16:142][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=154
+[2023.02.16-02.37.16:155][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.16-02.37.16:185][435]LogPlayLevel: Display: Destroying online subsystem :Context_242
+[2023.02.16-02.37.24:175][194]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.37.24:184][194]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.37.24:184][194]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.37.24:184][194]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.37.24:184][194]LogWorldPartition: Display: ValidateSingleActorReferer took 5 us
+[2023.02.16-02.37.24:184][194]LogWorldPartition: Display: GetPartitionedActors took 78 us
+[2023.02.16-02.37.24:185][194]LogWorldPartition: Display: GenerateStreaming took 616 us
+[2023.02.16-02.37.24:185][194]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.16-02.37.24:195][194]LogPlayLevel: [PlayLevel] Compiling ABP_PlayerAnimation before play...
+[2023.02.16-02.37.24:198][194]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerCharacterParent as a dependent...
+[2023.02.16-02.37.24:331][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_83
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.37.24:331][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_83
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.37.24:331][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_83
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.37.24:331][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_11
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.37.24:331][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_11
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.37.24:331][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_11
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.37.24:583][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.02.16-02.37.24:589][194]LogPlayLevel: PlayLevel: Blueprint regeneration took 403 ms (2 blueprints)
+[2023.02.16-02.37.24:589][194]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:37:24)
+[2023.02.16-02.37.24:589][194]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.37.24:617][194]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.37.24:617][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028126s)
+[2023.02.16-02.37.24:617][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.028175s)
+[2023.02.16-02.37.24:617][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.37.24:618][194]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.37.24:618][194]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.37.24:618][194]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.37.24:620][194]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.37.24:620][194]LogPlayLevel: PIE: World Init took: (0.003254s)
+[2023.02.16-02.37.24:663][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.16-02.37.24:666][194]LogAudio: Display: Creating Audio Device:                 Id: 155, Scope: Unique, Realtime: True
+[2023.02.16-02.37.24:666][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.37.24:666][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.37.24:666][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.37.24:666][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.37.24:666][194]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.37.24:666][194]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.37.24:666][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.37.24:666][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.37.24:667][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.37.24:667][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.37.24:667][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.37.24:669][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.37.24:687][194]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.37.24:688][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.37.24:688][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.37.24:688][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.37.24:688][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=155
+[2023.02.16-02.37.24:688][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=155
+[2023.02.16-02.37.24:690][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=155
+[2023.02.16-02.37.24:690][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=155
+[2023.02.16-02.37.24:690][194]LogInit: FAudioDevice initialized.
+[2023.02.16-02.37.24:690][194]LogAudio: Display: Audio Device (ID: 155) registered with world 'LevelBase'.
+[2023.02.16-02.37.24:746][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.37.24:746][194]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.37.24:749][194]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.37.24
+[2023.02.16-02.37.24:749][194]LogWorld: Bringing up level for play took: 0.003309
+[2023.02.16-02.37.24:752][194]LogOnline: OSS: Created online subsystem instance for: :Context_243
+[2023.02.16-02.37.24:755][194]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.37.24:755][194]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.37.24:755][194]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.37.24:756][194]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.37.24:841][194]PIE: Server logged in
+[2023.02.16-02.37.24:841][194]PIE: Play in editor total start time 0.658 seconds.
+[2023.02.16-02.37.25:119][194]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.37.32:417][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.37.32:417][610]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.37.32:418][610]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.37.32:429][610]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.37.32:431][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.37.32:446][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.37.32:457][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.37.32:510][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=155
+[2023.02.16-02.37.32:511][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=155
+[2023.02.16-02.37.32:524][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.16-02.37.32:560][611]LogPlayLevel: Display: Destroying online subsystem :Context_243
+[2023.02.16-02.37.56:886][531]LogDerivedDataCache: C:/Users/Ricor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.769 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.16-02.38.16:867][573]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.38.17:014][573]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_12
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.38.17:014][573]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_12
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.38.17:014][573]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_12
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.38.17:015][573]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_84
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.38.17:015][573]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_84
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.38.17:015][573]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_84
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.38.17:066][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.02.16-02.39.22:736][396]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.39.22:745][396]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.39.22:745][396]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.39.22:745][396]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.39.22:745][396]LogWorldPartition: Display: ValidateSingleActorReferer took 4 us
+[2023.02.16-02.39.22:745][396]LogWorldPartition: Display: GetPartitionedActors took 62 us
+[2023.02.16-02.39.22:745][396]LogWorldPartition: Display: GenerateStreaming took 396 us
+[2023.02.16-02.39.22:745][396]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.16-02.39.22:754][396]LogPlayLevel: [PlayLevel] Compiling ABP_PlayerAnimation before play...
+[2023.02.16-02.39.22:757][396]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerCharacterParent as a dependent...
+[2023.02.16-02.39.22:900][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_85
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.39.22:900][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_85
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.39.22:900][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_85
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.39.22:901][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_13
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.39.22:901][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_13
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.39.22:901][396]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_13
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.39.23:162][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.02.16-02.39.23:174][396]LogPlayLevel: PlayLevel: Blueprint regeneration took 429 ms (2 blueprints)
+[2023.02.16-02.39.23:174][396]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:39:23)
+[2023.02.16-02.39.23:174][396]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.39.23:199][396]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.39.23:199][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025330s)
+[2023.02.16-02.39.23:200][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.025378s)
+[2023.02.16-02.39.23:200][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.39.23:200][396]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.39.23:200][396]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.39.23:200][396]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.39.23:203][396]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.39.23:203][396]LogPlayLevel: PIE: World Init took: (0.003070s)
+[2023.02.16-02.39.23:247][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.02.16-02.39.23:250][396]LogAudio: Display: Creating Audio Device:                 Id: 156, Scope: Unique, Realtime: True
+[2023.02.16-02.39.23:250][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.39.23:250][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.39.23:250][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.39.23:250][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.39.23:250][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.39.23:250][396]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.39.23:250][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.39.23:250][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.39.23:251][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.39.23:251][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.39.23:251][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.39.23:253][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.39.23:272][396]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.39.23:273][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.39.23:273][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.39.23:273][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.39.23:273][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=156
+[2023.02.16-02.39.23:273][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=156
+[2023.02.16-02.39.23:275][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=156
+[2023.02.16-02.39.23:275][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=156
+[2023.02.16-02.39.23:275][396]LogInit: FAudioDevice initialized.
+[2023.02.16-02.39.23:275][396]LogAudio: Display: Audio Device (ID: 156) registered with world 'LevelBase'.
+[2023.02.16-02.39.23:330][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.39.23:331][396]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.39.23:333][396]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.39.23
+[2023.02.16-02.39.23:334][396]LogWorld: Bringing up level for play took: 0.003367
+[2023.02.16-02.39.23:337][396]LogOnline: OSS: Created online subsystem instance for: :Context_244
+[2023.02.16-02.39.23:339][396]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.39.23:339][396]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.39.23:339][396]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.39.23:340][396]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.39.23:427][396]PIE: Server logged in
+[2023.02.16-02.39.23:427][396]PIE: Play in editor total start time 0.685 seconds.
+[2023.02.16-02.39.23:673][396]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.39.43:671][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_154.WBP_DamageNumber_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.39.45:123][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.39.45:123][755]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.39.45:124][755]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.39.45:135][755]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.39.45:137][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.39.45:147][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.39.45:158][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.39.45:209][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=156
+[2023.02.16-02.39.45:211][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=156
+[2023.02.16-02.39.45:223][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.16-02.39.45:252][756]LogPlayLevel: Display: Destroying online subsystem :Context_244
+[2023.02.16-02.39.57:100][978]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.39.57:108][978]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.39.57:108][978]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.39.57:108][978]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.39.57:108][978]LogWorldPartition: Display: ValidateSingleActorReferer took 4 us
+[2023.02.16-02.39.57:109][978]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2023.02.16-02.39.57:109][978]LogWorldPartition: Display: GenerateStreaming took 395 us
+[2023.02.16-02.39.57:109][978]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.16-02.39.57:117][978]LogPlayLevel: [PlayLevel] Compiling ABP_PlayerAnimation before play...
+[2023.02.16-02.39.57:122][978]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerCharacterParent as a dependent...
+[2023.02.16-02.39.57:282][978]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_14
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.39.57:282][978]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_14
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.39.57:282][978]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_14
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.39.57:283][978]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_86
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.39.57:283][978]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_86
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.39.57:283][978]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_86
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.39.57:556][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.02.16-02.39.57:573][978]LogPlayLevel: PlayLevel: Blueprint regeneration took 464 ms (2 blueprints)
+[2023.02.16-02.39.57:573][978]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:39:57)
+[2023.02.16-02.39.57:573][978]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.39.57:598][978]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.39.57:598][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024890s)
+[2023.02.16-02.39.57:598][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.024941s)
+[2023.02.16-02.39.57:598][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.39.57:598][978]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.39.57:599][978]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.39.57:599][978]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.39.57:601][978]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.39.57:601][978]LogPlayLevel: PIE: World Init took: (0.003008s)
+[2023.02.16-02.39.57:645][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.02.16-02.39.57:648][978]LogAudio: Display: Creating Audio Device:                 Id: 157, Scope: Unique, Realtime: True
+[2023.02.16-02.39.57:648][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.39.57:648][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.39.57:648][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.39.57:648][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.39.57:648][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.39.57:648][978]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.39.57:648][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.39.57:648][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.39.57:649][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.39.57:649][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.39.57:649][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.39.57:651][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.39.57:670][978]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.39.57:670][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.39.57:670][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.39.57:670][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.39.57:671][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=157
+[2023.02.16-02.39.57:671][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=157
+[2023.02.16-02.39.57:672][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=157
+[2023.02.16-02.39.57:672][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=157
+[2023.02.16-02.39.57:672][978]LogInit: FAudioDevice initialized.
+[2023.02.16-02.39.57:672][978]LogAudio: Display: Audio Device (ID: 157) registered with world 'LevelBase'.
+[2023.02.16-02.39.57:730][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.39.57:730][978]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.39.57:732][978]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.39.57
+[2023.02.16-02.39.57:733][978]LogWorld: Bringing up level for play took: 0.003148
+[2023.02.16-02.39.57:736][978]LogOnline: OSS: Created online subsystem instance for: :Context_245
+[2023.02.16-02.39.57:738][978]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.39.57:738][978]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.39.57:738][978]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.39.57:739][978]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.39.57:824][978]PIE: Server logged in
+[2023.02.16-02.39.57:824][978]PIE: Play in editor total start time 0.718 seconds.
+[2023.02.16-02.39.57:957][978]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.40.18:753][255]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.22:084][456]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.23:134][518]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.24:239][584]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.49:186][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.49:186][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.49:186][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.49:186][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.49:186][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.49:186][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.53:634][271]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.54:680][327]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.55:798][386]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.55:799][386]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.55:799][386]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.57:131][453]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.57:131][453]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.57:131][453]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.57:132][453]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.57:132][453]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.40.57:132][453]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.00:015][599]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.01:056][650]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.02:561][723]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.02:561][723]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.02:561][723]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.02:561][723]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.02:561][723]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.05:621][869]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.06:677][917]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.07:787][966]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.07:809][967]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_33' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.07:809][967]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.07:809][967]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.09:193][ 31]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.10:501][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_35' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.10:501][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.10:501][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_37' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.10:501][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.10:502][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_39' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.13:293][223]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.14:348][274]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_41' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.15:879][353]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_43' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.15:879][353]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.15:879][353]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_155.WBP_DamageNumber_C_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.41.17:335][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.41.17:335][430]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.41.17:340][430]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.41.17:352][430]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.41.17:354][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.41.17:371][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.41.17:381][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.41.17:435][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=157
+[2023.02.16-02.41.17:437][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=157
+[2023.02.16-02.41.17:450][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.16-02.41.17:479][431]LogPlayLevel: Display: Destroying online subsystem :Context_245
+[2023.02.16-02.41.34:240][111]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.41.34:395][111]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_87
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.41.34:395][111]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_87
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.41.34:395][111]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_87
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.41.34:395][111]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_15
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.41.34:395][111]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_15
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.41.34:395][111]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_15
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.41.34:448][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.02.16-02.41.35:202][125]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.41.35:203][125]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParent9F3C8F164CB06B6EEE9DF09FDA1C468C.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.41.35:225][125]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.41.35:225][125]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.43.00:885][337]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.43.01:043][337]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_16
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.43.01:043][337]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_16
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.43.01:043][337]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_16
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.43.01:043][337]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_88
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.43.01:043][337]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_88
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.43.01:043][337]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_88
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.43.01:101][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.16-02.43.02:070][361]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.43.02:071][361]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParentDB5D531D429C90E8C0851096D31F5DD4.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.43.02:090][361]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.43.02:090][361]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.43.08:764][984]BlueprintLog: New page: Compile BP_PlayerCharacterParent
+[2023.02.16-02.43.08:914][984]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_89
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.43.08:914][984]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_89
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.43.08:914][984]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_89
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.43.08:914][984]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_17
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.16-02.43.08:914][984]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_17
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.16-02.43.08:914][984]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_PlayerAnimation_C_17
+	Function /Game/Blueprints/Player/Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.16-02.43.08:971][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.02.16-02.43.09:724][  0]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacterParent
+[2023.02.16-02.43.09:725][  0]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerCharacterParentE3D43F154DC1B144DAA482AA9F7C37A2.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerCharacterParent.uasset'
+[2023.02.16-02.43.09:746][  0]AssetCheck: New page: Asset Save: BP_PlayerCharacterParent
+[2023.02.16-02.43.09:746][  0]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerCharacterParent.BP_PlayerCharacterParent
+[2023.02.16-02.43.10:212][ 49]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.16-02.43.10:221][ 49]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.16-02.43.10:221][ 49]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.16-02.43.10:221][ 49]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.16-02.43.10:222][ 49]LogWorldPartition: Display: ValidateSingleActorReferer took 17 us
+[2023.02.16-02.43.10:222][ 49]LogWorldPartition: Display: GetPartitionedActors took 79 us
+[2023.02.16-02.43.10:222][ 49]LogWorldPartition: Display: GenerateStreaming took 505 us
+[2023.02.16-02.43.10:222][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.16-02.43.10:222][ 49]PIE: New page: PIE session: LevelBase (16 Feb 2023, 02:43:10)
+[2023.02.16-02.43.10:222][ 49]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.43.10:249][ 49]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.16-02.43.10:249][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026951s)
+[2023.02.16-02.43.10:249][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelBase.LevelBase to /Game/UEDPIE_0_LevelBase.LevelBase (0.027009s)
+[2023.02.16-02.43.10:249][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.16-02.43.10:250][ 49]LogAIModule: Creating AISystem for world LevelBase
+[2023.02.16-02.43.10:250][ 49]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.16-02.43.10:250][ 49]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.16-02.43.10:253][ 49]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.16-02.43.10:253][ 49]LogPlayLevel: PIE: World Init took: (0.003380s)
+[2023.02.16-02.43.10:303][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.16-02.43.10:320][ 49]LogAudio: Display: Creating Audio Device:                 Id: 158, Scope: Unique, Realtime: True
+[2023.02.16-02.43.10:321][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.16-02.43.10:321][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.16-02.43.10:321][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.16-02.43.10:321][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.16-02.43.10:321][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.16-02.43.10:321][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.16-02.43.10:321][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.16-02.43.10:321][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.16-02.43.10:321][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.16-02.43.10:321][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.16-02.43.10:321][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.16-02.43.10:323][ 49]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.16-02.43.10:342][ 49]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.16-02.43.10:342][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.16-02.43.10:342][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.16-02.43.10:343][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.16-02.43.10:343][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=158
+[2023.02.16-02.43.10:343][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=158
+[2023.02.16-02.43.10:345][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=158
+[2023.02.16-02.43.10:345][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=158
+[2023.02.16-02.43.10:345][ 49]LogInit: FAudioDevice initialized.
+[2023.02.16-02.43.10:345][ 49]LogAudio: Display: Audio Device (ID: 158) registered with world 'LevelBase'.
+[2023.02.16-02.43.10:399][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.43.10:399][ 49]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.16-02.43.10:402][ 49]LogWorld: Bringing World /Game/UEDPIE_0_LevelBase.LevelBase up for play (max tick rate 0) at 2023.02.16-02.43.10
+[2023.02.16-02.43.10:403][ 49]LogWorld: Bringing up level for play took: 0.003902
+[2023.02.16-02.43.10:405][ 49]LogOnline: OSS: Created online subsystem instance for: :Context_246
+[2023.02.16-02.43.10:408][ 49]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15480.000 Y=-18600.000 Z=380.000
+[2023.02.16-02.43.10:408][ 49]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.16-02.43.10:408][ 49]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15480.000 Y=-18600.000 Z=380.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.16-02.43.10:409][ 49]LogStreaming: Display: FlushAsyncLoading: 39 QueuedPackages, 0 AsyncPackages
+[2023.02.16-02.43.10:523][ 49]PIE: Server logged in
+[2023.02.16-02.43.10:535][ 49]PIE: Play in editor total start time 0.316 seconds.
+[2023.02.16-02.43.10:623][ 49]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.16-02.43.29:450][248]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.43.30:513][313]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.43.31:608][379]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.43.32:950][460]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.43.35:949][642]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.43.37:003][704]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.43.38:093][766]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.43.39:501][850]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.43.40:564][913]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.05:360][428]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.05:361][428]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.05:361][428]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.05:361][428]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.05:361][428]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.08:187][585]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.09:253][645]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.10:347][707]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.10:347][707]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.11:588][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.11:588][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.11:588][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.11:588][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.11:589][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.14:525][933]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.15:572][989]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.16:666][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.16:666][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.16:667][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.16:667][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.16:667][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.18:072][119]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.19:480][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_33' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.19:480][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.19:480][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.22:140][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.23:197][391]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_35' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.24:300][448]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.24:301][448]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_37' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.24:301][448]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.25:561][513]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.25:561][513]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_41' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.25:562][513]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.25:562][513]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_39' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.28:762][684]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_43' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.29:823][742]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.30:920][801]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_45' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.30:920][801]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.32:324][881]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_47' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.33:761][961]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_49' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.33:761][961]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.36:376][105]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.37:453][160]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_156.WBP_DamageNumber_C_51' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.02.16-02.44.48:913][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.16-02.44.48:913][886]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LevelBase
+[2023.02.16-02.44.48:916][886]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.16-02.44.48:928][886]LogWorld: UWorld::CleanupWorld for LevelBase, bSessionEnded=true, bCleanupResources=true
+[2023.02.16-02.44.48:929][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.44.48:945][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.16-02.44.48:955][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.16-02.44.49:004][886]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.16-02.44.49:007][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=158
+[2023.02.16-02.44.49:008][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=158
+[2023.02.16-02.44.49:022][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.16-02.44.49:053][887]LogPlayLevel: Display: Destroying online subsystem :Context_246
+[2023.02.16-02.44.50:542][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.16-02.44.50:620][ 56]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Mesh/OgreTpose_Skeleton
+[2023.02.16-02.44.50:620][ 56]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/OgreTpose_SkeletonE2B89B484041A1EB547F6C913E8927C8.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Mesh/OgreTpose_Skeleton.uasset'
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: ================================================
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Total job queries 4549, among them cache hits 2711 (59.60%)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Tracking 1784 distinct input hashes that result in 441 distinct outputs (24.72%)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: RAM used: 1.75 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.21%
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Shaders Compiled: 494
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Jobs assigned 1784, completed 1784 (100.00%)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Average time worker was idle: 122.45 s
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Time job spent in pending queue: average 0.70 s, longest 10.47 s
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Job execution time: average 1.81 s, max 12.26 s
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Job life time (pending + execution): average 2.51 s, max 12.30
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 365.53 s
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Jobs were issued in 1595 batches (only local compilation was used), average 1.12 jobs/batch
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Effective parallelization: 4.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 1.49 sec, max 1.59 sec, min 1.37 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    3 times, average 1.34 sec, max 1.50 sec, min 1.04 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 1.23 sec, max 1.29 sec, min 1.17 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    3 times, average 1.17 sec, max 1.41 sec, min 1.02 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    3 times, average 1.12 sec, max 1.41 sec, min 0.93 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.95% of total time (compiled  222 times, average 1.00 sec, max 1.72 sec, min 0.61 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.58% of total time (compiled  218 times, average 0.92 sec, max 1.52 sec, min 0.50 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.78% of total time (compiled  166 times, average 1.03 sec, max 1.75 sec, min 0.66 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.76% of total time (compiled   69 times, average 1.09 sec, max 1.30 sec, min 0.91 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 4.73% of total time (compiled   70 times, average 1.07 sec, max 1.58 sec, min 0.83 sec)
+[2023.02.16-02.44.50:712][ 56]LogShaderCompilers: Display: ================================================
+[2023.02.16-02.44.50:749][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelMaterials/LandScape" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/LevelMaterials/LandScape.uasset" SILENT=true
+[2023.02.16-02.44.50:753][ 56]LogSavePackage: Moving output files for package: /Game/LevelMaterials/LandScape
+[2023.02.16-02.44.50:754][ 56]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/LandScape667FE81E420EE1DDF3D2C6872658C86A.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/LevelMaterials/LandScape.uasset'
+[2023.02.16-02.44.50:756][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Coin" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/Coin.uasset" SILENT=true
+[2023.02.16-02.44.50:759][ 56]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Coin
+[2023.02.16-02.44.50:759][ 56]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Coin43187CEA4C52578449FF7CAC474CD35D.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/Coin.uasset'
+[2023.02.16-02.44.50:782][ 56]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.16-02.44.50:782][ 56]LogContentValidation: Display: Validating Skeleton /Game/Blueprints/Player/Mesh/OgreTpose_Skeleton.OgreTpose_Skeleton
+[2023.02.16-02.44.50:783][ 56]LogContentValidation: Display: Validating Material /Game/LevelMaterials/LandScape.LandScape
+[2023.02.16-02.44.50:783][ 56]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Items/Coin.Coin
