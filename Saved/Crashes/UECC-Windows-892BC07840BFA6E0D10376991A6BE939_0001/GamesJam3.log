@@ -1,0 +1,1495 @@
+﻿Log file open, 02/26/23 11:56:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10436)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GamesJam3
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Ricor\OneDrive\Documents\Unreal Projects\GamesJam3Self\GamesJam3.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2604] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 3600 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="9fd246c546cb44c54fbf84b9245209dc"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 19.765949
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-892BC07840BFA6E0D10376991A6BE939
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.08 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.17 seconds
+LogConfig: Display: Loading Linux ini files took 0.18 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2604] (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic/Unreal5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.02.26-11.56.42:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.02.26-11.56.42:650][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.02.26-11.56.42:650][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.02.26-11.56.42:651][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.02.26-11.56.42:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.02.26-11.56.42:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.02.26-11.56.42:676][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.02.26-11.56.42:760][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.02.26-11.56.42:760][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.02.26-11.56.42:761][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.02.26-11.56.42:761][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.02.26-11.56.42:761][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.02.26-11.56.42:761][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.02.26-11.56.42:761][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.02.26-11.56.42:761][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.02.26-11.56.42:761][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.02.26-11.56.42:761][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.02.26-11.56.42:761][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.02.26-11.56.43:033][  0]LogD3D12RHI: Aftermath initialized
+[2023.02.26-11.56.43:033][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.02.26-11.56.43:567][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.02.26-11.56.43:567][  0]LogD3D12RHI: Adapter has 12129MB of dedicated video memory, 0MB of dedicated system memory, and 8154MB of shared system memory, 2 output[s]
+[2023.02.26-11.56.43:580][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.02.26-11.56.43:580][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8154MB of shared system memory, 0 output[s]
+[2023.02.26-11.56.43:580][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.02.26-11.56.43:580][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.26-11.56.43:612][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.02.26-11.56.43:615][  0]LogHAL: Display: Platform has ~ 16 GB [17101836288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.26-11.56.43:634][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.02.26-11.56.43:634][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.02.26-11.56.43:634][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.26-11.56.43:657][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.02.26-11.56.43:657][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Config/WindowsEditor/Editor.ini]
+[2023.02.26-11.56.43:678][  0]LogInit: Computer: DESKTOP-8SI60Q4
+[2023.02.26-11.56.43:678][  0]LogInit: User: Ricor
+[2023.02.26-11.56.43:678][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.02.26-11.56.43:678][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.26-11.56.43:678][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.02.26-11.56.43:678][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.02.26-11.56.43:678][  0]LogMemory: Process Physical Memory: 270.64 MB used, 280.25 MB peak
+[2023.02.26-11.56.43:678][  0]LogMemory: Process Virtual Memory: 230.45 MB used, 230.45 MB peak
+[2023.02.26-11.56.43:678][  0]LogMemory: Physical Memory: 5641.29 MB used,  10668.29 MB free, 16309.58 MB total
+[2023.02.26-11.56.43:678][  0]LogMemory: Virtual Memory: 10686.70 MB used,  22006.89 MB free, 32693.58 MB total
+[2023.02.26-11.56.43:679][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.02.26-11.56.43:700][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.26-11.56.44:168][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.02.26-11.56.44:226][  0]LogInit: Using OS detected language (en-GB).
+[2023.02.26-11.56.44:226][  0]LogInit: Using OS detected locale (en-GB).
+[2023.02.26-11.56.44:284][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.02.26-11.56.44:764][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.26-11.56.45:044][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.02.26-11.56.45:044][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.02.26-11.56.45:044][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.02.26-11.56.46:860][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.26-11.56.46:860][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.26-11.56.51:886][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.02.26-11.56.51:926][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.02.26-11.56.51:926][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.02.26-11.56.52:027][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.02.26-11.56.52:088][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.02.26-11.56.52:094][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.02.26-11.56.52:106][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.02.26-11.56.52:156][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.02.26-11.56.52:156][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.02.26-11.56.52:409][  0]LogD3D12RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.26-11.56.52:409][  0]LogWindows: Attached monitors:
+[2023.02.26-11.56.52:409][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY1'
+[2023.02.26-11.56.52:409][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY3' [PRIMARY]
+[2023.02.26-11.56.52:409][  0]LogWindows: Found 2 attached monitors.
+[2023.02.26-11.56.52:409][  0]LogWindows: EnumDisplayDevices:
+[2023.02.26-11.56.52:409][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:0 D:1), name: '\\.\DISPLAY1'
+[2023.02.26-11.56.52:409][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.02.26-11.56.52:409][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY3'
+[2023.02.26-11.56.52:409][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.02.26-11.56.52:409][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.26-11.56.52:409][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2023.02.26-11.56.52:410][  0]LogD3D12RHI:   Driver Version: 528.24 (internal:31.0.15.2824, unified:528.24)
+[2023.02.26-11.56.52:410][  0]LogD3D12RHI:      Driver Date: 1-15-2023
+[2023.02.26-11.56.52:410][  0]LogRHI: Texture pool is 7157 MB (70% of 10224 MB)
+[2023.02.26-11.56.52:410][  0]LogD3D12RHI: Async texture creation enabled
+[2023.02.26-11.56.52:410][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.02.26-11.56.52:936][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.02.26-11.56.53:104][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/GamesJam3.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/GamesJam3.uproject"  -platform=all'
+[2023.02.26-11.56.53:105][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic/Unreal5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/GamesJam3.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/GamesJam3.uproject"  -platform=all" ]
+[2023.02.26-11.56.53:634][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.02.26-11.56.54:369][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.02.26-11.56.54:369][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.26-11.56.54:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.26-11.56.54:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.02.26-11.56.54:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.02.26-11.56.54:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.26-11.56.54:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.26-11.56.54:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.26-11.56.54:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.02.26-11.56.54:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.26-11.56.54:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.26-11.56.54:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.02.26-11.56.54:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.02.26-11.56.54:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.02.26-11.56.54:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.26-11.56.54:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.26-11.56.55:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.26-11.56.55:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.02.26-11.56.55:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.26-11.56.55:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.26-11.56.55:072][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.02.26-11.56.55:342][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.26-11.56.55:386][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.02.26-11.56.55:386][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.02.26-11.56.55:386][  0]LogTargetPlatformManager:   ADPCM
+[2023.02.26-11.56.55:386][  0]LogTargetPlatformManager:   PCM
+[2023.02.26-11.56.55:417][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.02.26-11.56.55:417][  0]LogTargetPlatformManager:   BINKA
+[2023.02.26-11.56.55:417][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.02.26-11.56.55:417][  0]LogTargetPlatformManager:   OGG
+[2023.02.26-11.56.55:417][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.02.26-11.56.55:417][  0]LogTargetPlatformManager:   OPUS
+[2023.02.26-11.56.57:377][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   SF_METAL
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.02.26-11.56.57:731][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.02.26-11.56.57:994][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.02.26-11.56.57:995][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.02.26-11.56.57:995][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.02.26-11.56.57:995][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.02.26-11.56.57:995][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.02.26-11.56.57:995][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.02.26-11.56.57:995][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.02.26-11.56.58:008][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.26-11.56.58:147][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.02.26-11.56.58:151][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.26-11.56.58:152][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.02.26-11.56.58:156][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.26-11.56.58:195][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.02.26-11.56.58:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.26-11.56.58:195][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.02.26-11.56.58:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.26-11.56.58:195][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.02.26-11.56.58:351][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.02.26-11.56.58:351][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.26-11.56.58:351][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.02.26-11.56.58:394][  0]LogDerivedDataCache: Speed tests for C:/Users/Ricor/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2023.02.26-11.56.58:394][  0]LogDerivedDataCache: Display: Performance to C:/Users/Ricor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=26.41MBs, RandomWriteSpeed=184.80MBs. Assigned SpeedClass 'Local'
+[2023.02.26-11.56.58:438][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ricor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.26-11.56.58:438][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.26-11.56.58:438][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.02.26-11.56.58:443][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.02.26-11.56.58:443][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.02.26-11.56.58:609][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Intermediate/Shaders/WorkingDirectory/20720/).
+[2023.02.26-11.56.58:609][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ricor/AppData/Local/Temp/UnrealShaderWorkingDir/1A7417F94078614798844389965239E0/'.
+[2023.02.26-11.56.58:618][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.26-11.56.58:618][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.02.26-11.57.11:707][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.26-11.57.11:889][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.26-11.57.13:292][  0]LogAssetRegistry: FAssetRegistry took 0.0579 seconds to start up
+[2023.02.26-11.57.13:328][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.02.26-11.57.36:293][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.02.26-11.57.37:706][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.02.26-11.57.38:890][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.26-11.57.38:890][  0]LogDeviceProfileManager: Active device profile: [000009A68E29B440][000009A687070000 50] WindowsEditor
+[2023.02.26-11.57.38:890][  0]LogDeviceProfileManager: Profiles: [000009A68E29AF00][000009A687072800 50] Windows, [000009A68E29B440][000009A687070000 50] WindowsEditor, [000009A68E29A100][000009A68707A000 50] WindowsServer, [000009A68E299140][000009A677947800 50] WindowsClient, [000009A68E298C00][000009A687037800 50] IOS, [000009A68E29AD40][000009A687075000 50] iPadAir2, [000009A68E29AB80][000009A68E6F0000 50] IPadPro, [000009A68E29A9C0][000009A68E6F2800 50] iPadAir3, [000009A68E2986C0][000009A68E6F7800 50] iPadAir4, [000009A68E29A480][000009A68E6FA000 50] iPadMini4, [000009A68E298180][000009A68E6FC800 50] iPadMini5, [000009A68E2994C0][000009A687035000 50] iPadMini6, [000009A68E29E8C0][000009A68E702800 50] iPhone6S, [000009A68E29E700][000009A68E700000 50] iPhone7, [000009A68E29E380][000009A68E705000 50] iPodTouch7, [000009A68E298340][000009A68E70A000 50] iPhone6SPlus, [000009A68E2971C0][000009A68E70C800 50] iPhone7Plus, [000009A68E296740][000009A68E6F5000 50] iPhoneSE, [000009A68E299F40][000009A68E707800 50] iPhone8, [000009A68E29B7C0][000009A68E6B0000 50] iPhone8Plus, [000009A68E29E000][000009A68E6B5000 50] iPhoneX, [000009A68E298F80][000009A68E6B7800 50] iPhoneXS, [000009A68E298DC0][000009A68E6BA000 50] iPhoneXSMax, [000009A68E297C40][000009A68E6BC800 50] iPhoneXR, [000009A68E299300][000009A68813C800 50] iPhone11, [000009A68E29DC80][000009A68E6E0000 50] iPhone11Pro, [000009A68E297380][000009A68E6E5000 50] iPhone11ProMax, [000009A68E29DAC0][000009A68E6E7800 50] iPhoneSE2, [000009A68E296C80][000009A68E6EA000 50] iPhone12Mini, [000009A68E29B600][000009A68E6EC800 50] iPhone12, [000009A68E299680][000009A68E6B2800 50] iPhone12Pro, [000009A68E298880][000009A68E710000 50] iPhone12ProMax, [000009A68E299BC0][000009A68E715000 50] iPhone13Mini, [000009A68E29EA80][000009A68E717800 50] iPhone13, [000009A68E298500][000009A68E71A000 50] iPhone13Pro, [000009A68E29BEC0][000009A68E71C800 50] iPhone13ProMax, [000009A68E29A640][000009A68E6E2800 50] iPadPro105, [000009A68E297A80][000009A68E720000 50] iPadPro129, [000009A68E297E00][000009A68E725000 50] iPadPro97, [000009A68E29B980][000009A68E727800 50] iPadPro2_129, [000009A68E297FC0][000009A68E72A000 50] iPad5, [000009A68E29B280][000009A68E72C800 50] iPad6, [000009A68E29C400][000009A68E712800 50] iPad7, [000009A68E299840][000009A68E730000 50] iPad8, [000009A68E29E1C0][000009A68E735000 50] iPad9, [000009A68E2978C0][000009A68E737800 50] iPadPro11, [000009A68E29C5C0][000009A68E73A000 50] iPadPro2_11, [000009A68E299A00][000009A68E73C800 50] iPadPro3_11, [000009A68E29BD00][000009A68E722800 50] iPadPro3_129, [000009A68E29BB40][000009A68E750000 50] iPadPro4_129, [000009A68E297700][000009A68E755000 50] iPadPro5_129, [000009A68E29D3C0][000009A68E757800 50] AppleTV, [000009A68E29C940][000009A68E75A000 50] AppleTV4K, [000009A68E298A40][000009A68E75C800 50] TVOS, [000009A68E7B0C40][000009A68E780000 50] Mac, [000009A68E7B0A80][000009A68E782800 50] MacEditor, [000009A68E7B2840][000009A68E787800 50] MacClient, [000009A68E7B2300][000009A68E78A000 50] MacServer, [000009A68E7B4980][000009A68E732800 50] Linux, [000009A68E7B4D00][000009A68E752800 50] LinuxEditor, [000009A68E7B1F80][000009A68E78C800 50] LinuxArm64Editor, [000009A68E7B3F00][000009A68E760000 50] LinuxArm64, [000009A68E7B1A40][000009A68E765000 50] LinuxClient, [000009A68E7B4280][000009A68E767800 50] LinuxArm64Client, [000009A68E7B24C0][000009A68E76A000 50] LinuxServer, [000009A68E7B39C0][000009A68E76C800 50] LinuxArm64Server, [000009A68E7B0E00][000009A68E785000 50] Android, [000009A68E7B3480][000009A68E770000 50] Android_Preview_OpenGL, [000009A68E7B0000][000009A68E775000 50] Android_Preview_Vulkan, [000009A68E7B4B40][000009A68E777800 50] Android_Low, [000009A68E7B3100][000009A68E77A000 50] Android_Mid, [000009A68E7B4600][000009A68E77C800 50] Android_High, [000009A68E7B08C0][000009A68E762800 50] Android_Default, [000009A68E7B2D80][000009A68E790000 50] Android_Adreno4xx, [000009A68E7B47C0][000009A68E795000 50] Android_Adreno5xx_Low, [000009A68E7B40C0][000009A68E797800 50] Android_Adreno5xx, [000009A68E7B01C0][000009A68E79A000 50] Android_Adreno6xx, [000009A68E7B1340][000009A68E79C800 50] Android_Adreno6xx_Vulkan, [000009A68E7B2BC0][000009A68E772800 50] Android_Adreno7xx, [000009A68E7B2140][000009A68E7A0000 50] Android_Adreno7xx_Vulkan, [000009A68E7B0380][000009A68E7A5000 50] Android_Mali_T6xx, [000009A68E7B0540][000009A68E7A7800 50] Android_Mali_T7xx, [000009A68E7B2F40][000009A68E7AA000 50] Android_Mali_T8xx, [000009A68E7B3D40][000009A68E7AC800 50] Android_Mali_G71, [000009A68E7B1880][000009A68E792800 50] Android_Mali_G72, [000009A68E7B2A00][000009A68E7C0000 50] Android_Mali_G72_Vulkan, [000009A68E7B1C00][000009A68E7C5000 50] Android_Mali_G76, [000009A68E7B3640][000009A68E7C7800 50] Android_Mali_G76_Vulkan, [000009A68E7B1500][000009A68E7CA000 50] Android_Mali_G77, [000009A68E7B5080][000009A68E7CC800 50] Android_Mali_G77_Vulkan, [000009A68E7B0700][000009A68E7A2800 50] Android_Mali_G78, [000009A68E7B4EC0][000009A68E7D0000 50] Android_Mali_G78_Vulkan, [000009A68E7B4440][000009A68E7D5000 50] Android_Mali_G710, [000009A68E7B1DC0][000009A68E7D7800 50] Android_Mali_G710_Vulkan, [000009A68E7B0FC0][000009A68E7DA000 50] Android_Xclipse_920, [000009A68E7B5240][000009A68E7DC800 50] Android_Xclipse_920_Vulkan, [000009A68E7B3B80][000009A68E7C2800 50] Android_Vulkan_SM5, [000009A68E7B6200][000009A68E7E0000 50] Android_PowerVR_G6xxx, [000009A68E7B1180][000009A68E7E5000 50] Android_PowerVR_GT7xxx, [000009A68E7B55C0][000009A68E7E7800 50] Android_PowerVR_GE8xxx, [000009A68E7B6AC0][000009A68E7EA000 50] Android_PowerVR_GM9xxx, [000009A68E7B63C0][000009A68E7EC800 50] Android_PowerVR_GM9xxx_Vulkan, [000009A68E7B71C0][000009A68E7D2800 50] Android_TegraK1, [000009A68E7B5400][000009A68E7F0000 50] Android_Unknown_Vulkan, [000009A68E7B3800][000009A68E7F5000 50] Oculus_Quest, [000009A68E7B7540][000009A68E7F7800 50] Oculus_Quest2, [000009A68E7B7C40][000009A68E7FA000 50] HoloLens, 
+[2023.02.26-11.57.38:890][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.02.26-11.57.40:961][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.02.26-11.57.40:961][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.02.26-11.57.40:961][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.02.26-11.57.40:961][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.02.26-11.57.40:961][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.02.26-11.57.44:283][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.02.26-11.57.47:168][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.26-11.57.47:168][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.26-11.57.47:168][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.26-11.57.47:168][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.26-11.57.47:168][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.26-11.57.48:062][  0]LogNetVersion: GamesJam3 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3655977745)
+[2023.02.26-11.57.51:391][  0]LogSlate: Border
+[2023.02.26-11.57.51:391][  0]LogSlate: BreadcrumbButton
+[2023.02.26-11.57.51:391][  0]LogSlate: Default
+[2023.02.26-11.57.51:391][  0]LogSlate: Icons.Save
+[2023.02.26-11.57.51:391][  0]LogSlate: Icons.Toolbar.Settings
+[2023.02.26-11.57.51:391][  0]LogSlate: ListView
+[2023.02.26-11.57.51:391][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.02.26-11.57.51:391][  0]LogSlate: SoftwareCursor_Grab
+[2023.02.26-11.57.51:391][  0]LogSlate: TableView.DarkRow
+[2023.02.26-11.57.51:391][  0]LogSlate: TableView.Row
+[2023.02.26-11.57.51:391][  0]LogSlate: TreeView
+[2023.02.26-11.57.59:818][  0]SourceControl: Source control is disabled
+[2023.02.26-11.58.00:234][  0]SourceControl: Source control is disabled
+[2023.02.26-11.58.00:234][  0]SourceControl: Source control is disabled
+[2023.02.26-11.58.01:136][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.02.26-11.58.01:160][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.02.26-11.58.01:160][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.26-11.58.07:485][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A167FFBC46DC5BAFBB4EAF938AAFAC6D | Instance: 8947B9A240642FCF812507916FAFCEDE (DESKTOP-8SI60Q4-20720).
+[2023.02.26-11.58.08:803][  0]LogPython: Using Python 3.9.7
+[2023.02.26-11.58.11:679][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.26-11.58.11:751][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.26-11.58.15:992][  0]SourceControl: Source control is disabled
+[2023.02.26-11.58.16:035][  0]SourceControl: Source control is disabled
+[2023.02.26-11.58.16:099][  0]SourceControl: Source control is disabled
+[2023.02.26-11.58.16:281][  0]LogUProjectInfo: Found projects:
+[2023.02.26-11.58.17:492][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.26-11.58.18:069][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.26-11.58.18:210][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.26-11.58.18:210][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.26-11.58.19:220][  0]LogCollectionManager: Loaded 0 collections in 0.001259 seconds
+[2023.02.26-11.58.20:276][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/Collections/' took 0.00s
+[2023.02.26-11.58.20:276][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Developers/Ricor/Collections/' took 0.01s
+[2023.02.26-11.58.20:276][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Collections/' took 0.00s
+[2023.02.26-11.58.22:617][  0]LogEngine: Initializing Engine...
+[2023.02.26-11.58.22:856][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.02.26-11.58.22:918][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.011 s
+[2023.02.26-11.58.24:481][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.26-11.58.24:582][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.26-11.58.24:928][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-11.58.25:424][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.26-11.58.25:649][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.26-11.58.25:751][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.26-11.58.25:752][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.26-11.58.25:752][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.02.26-11.58.25:831][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.26-11.58.25:831][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.26-11.58.26:006][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-11.58.26:006][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-11.58.26:006][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-11.58.26:006][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-11.58.26:006][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.26-11.58.26:006][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.26-11.58.26:006][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.26-11.58.26:006][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-11.58.26:058][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-11.58.26:058][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-11.58.26:058][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-11.58.26:136][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.26-11.58.26:166][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.26-11.58.26:227][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-11.58.26:229][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-11.58.26:229][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-11.58.26:251][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.02.26-11.58.26:251][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.26-11.58.26:252][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.26-11.58.26:252][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.02.26-11.58.26:252][  0]LogInit: FAudioDevice initialized.
+[2023.02.26-11.58.26:252][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.26-11.58.26:252][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.26-11.58.26:252][  0]LogInit: Texture streaming: Enabled
+[2023.02.26-11.58.26:456][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.02.26-11.58.26:520][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.26-11.58.26:622][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.02.26-11.58.26:718][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.02.26-11.58.26:718][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.02.26-11.58.32:580][  0]LogLiveCoding: Display: First instance in process group "UE_GamesJam3_0x6d3ab544", spawning console
+[2023.02.26-11.58.32:580][  0]LogLiveCoding: Display: Waiting for server
+[2023.02.26-11.58.32:580][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.02.26-11.58.32:637][  0]LogInit: Transaction tracking system initialized
+[2023.02.26-11.58.33:202][  0]BlueprintLog: New page: Editor Load
+[2023.02.26-11.58.34:960][  0]LocalizationService: Localization service is disabled
+[2023.02.26-11.58.35:314][  0]TimingProfiler: Initialize
+[2023.02.26-11.58.35:314][  0]TimingProfiler: OnSessionChanged
+[2023.02.26-11.58.35:324][  0]LoadingProfiler: Initialize
+[2023.02.26-11.58.35:324][  0]LoadingProfiler: OnSessionChanged
+[2023.02.26-11.58.35:341][  0]NetworkingProfiler: Initialize
+[2023.02.26-11.58.35:343][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.26-11.58.35:343][  0]MemoryProfiler: Initialize
+[2023.02.26-11.58.35:343][  0]MemoryProfiler: OnSessionChanged
+[2023.02.26-11.58.42:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/' took 0.02s
+[2023.02.26-11.58.42:648][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.02.26-11.58.43:651][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.26-11.58.43:794][  0]SourceControl: Source control is disabled
+[2023.02.26-11.58.43:817][  0]LogUnrealEdMisc: Loading editor; pre map load, took 155.690
+[2023.02.26-11.58.43:892][  0]Cmd: MAP LOAD FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Levels/L_Dungeon1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.26-11.58.43:892][  0]LightingResults: New page: Lighting Build
+[2023.02.26-11.58.44:128][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-11.58.44:271][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-11.58.44:304][  0]MapCheck: New page: Map Check
+[2023.02.26-11.58.44:304][  0]LightingResults: New page: Lighting Build
+[2023.02.26-11.58.44:888][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.26-11.58.45:167][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.02.26-11.58.49:965][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Dungeon1'.
+[2023.02.26-11.58.50:026][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-11.58.50:026][  0]LogAIModule: Creating AISystem for world L_Dungeon1
+[2023.02.26-11.58.50:095][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.26-11.58.50:117][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.02.26-11.58.50:665][  0]LogWorldPartition: Display: WorldPartition initialize took 569 ms
+[2023.02.26-11.58.51:614][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.26-11.58.51:752][  0]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.02.26-11.58.51:850][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.02.26-11.58.51:944][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.26-11.58.51:970][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 26.605ms to complete.
+[2023.02.26-11.58.52:004][  0]LogFileHelpers: Loading map 'L_Dungeon1' took 8.090
+[2023.02.26-11.58.52:961][  0]LogUnrealEdMisc: Total Editor Startup Time, took 164.835
+[2023.02.26-11.58.52:961][  0]LogShaderCompilers: Display: ================================================
+[2023.02.26-11.58.52:961][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-11.58.52:961][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.26-11.58.52:989][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.26-11.58.52:989][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.26-11.58.52:989][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.26-11.58.52:989][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.26-11.58.52:989][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.26-11.58.52:989][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.26-11.58.52:989][  0]LogShaderCompilers: Display: ================================================
+[2023.02.26-11.58.53:535][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.53:535][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.53:535][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.53:535][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.53:535][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.53:535][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.53:535][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.53:535][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.53:535][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.53:800][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-11.58.53:905][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-11.58.53:910][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-11.58.53:915][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-11.58.54:486][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:486][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:523][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:523][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:534][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:534][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:552][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:552][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:566][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:566][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:602][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:602][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:608][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:608][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:614][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:614][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:630][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:630][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:640][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.02.26-11.58.54:641][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.26-11.58.54:641][  0]LogFeaturePack: Error: Error in Feature pack D:/Epic/Unreal5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.02.26-11.58.55:462][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.26-11.58.56:070][  0]LogSlate: Took 0.040937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.26-11.58.56:173][  0]LogSlate: Took 0.014693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.26-11.58.56:205][  0]LogSlate: Took 0.017372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.26-11.58.56:247][  0]LogSlate: Took 0.040294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.26-11.58.56:260][  0]LogSlate: Took 0.012400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.26-11.58.56:312][  0]LogViewport: Scene viewport resized to 1532x499, mode Windowed.
+[2023.02.26-11.58.56:891][  0]LogSlate: Took 0.004324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.26-11.58.58:691][  0]LogStall: Startup...
+[2023.02.26-11.58.58:692][  0]LogStall: Startup complete.
+[2023.02.26-11.58.58:826][  0]LogLoad: (Engine Initialization) Total time: 170.71 seconds
+[2023.02.26-11.58.58:826][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.26-11.58.58:956][  0]LogAssetRegistry: Asset discovery search completed in 105.6483 seconds
+[2023.02.26-11.58.58:976][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.02.26-11.58.59:014][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.26-11.59.01:274][  6]LogDerivedDataCache: C:/Users/Ricor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.604 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.26-11.59.01:752][  6]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Player/Abilities/FX_Ability1.FX_Ability1 took 12.078496 sec, no shader worker used.
+[2023.02.26-11.59.02:478][  7]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Player/Abilities/FX_Electric.FX_Electric took 12.732343 sec, no shader worker used.
+[2023.02.26-11.59.02:489][  7]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Player/Abilities/N_ShadowSphere.N_ShadowSphere took 12.666151 sec, no shader worker used.
+[2023.02.26-11.59.02:638][  8]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Items/FX_CoinBurst.FX_CoinBurst took 12.743303 sec, no shader worker used.
+[2023.02.26-11.59.03:031][ 10]LogViewport: Scene viewport resized to 1018x321, mode Windowed.
+[2023.02.26-11.59.04:497][ 10]LogViewport: Scene viewport resized to 1532x499, mode Windowed.
+[2023.02.26-11.59.05:770][ 98]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.26-11.59.05:792][ 98]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.26-11.59.05:792][ 98]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.26-11.59.05:792][ 98]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.26-11.59.05:792][ 98]LogWorldPartition: Display: ValidateSingleActorReferer took 2 us
+[2023.02.26-11.59.05:792][ 98]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.02.26-11.59.05:793][ 98]LogWorldPartition: Display: GenerateStreaming took 342 us
+[2023.02.26-11.59.05:835][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-11.59.05:931][ 98]PIE: New page: PIE session: L_Dungeon1 (26 Feb 2023, 11:59:05)
+[2023.02.26-11.59.05:968][ 98]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.26-11.59.05:972][ 98]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.26-11.59.05:972][ 98]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Dungeon1
+[2023.02.26-11.59.06:025][ 98]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.26-11.59.06:052][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079812s)
+[2023.02.26-11.59.06:052][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Dungeon1.L_Dungeon1 to /Game/Levels/UEDPIE_0_L_Dungeon1.L_Dungeon1 (0.080065s)
+[2023.02.26-11.59.06:052][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-11.59.06:052][ 98]LogAIModule: Creating AISystem for world L_Dungeon1
+[2023.02.26-11.59.06:063][ 98]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.26-11.59.06:063][ 98]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.26-11.59.06:066][ 98]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.26-11.59.06:066][ 98]LogPlayLevel: PIE: World Init took: (0.014166s)
+[2023.02.26-11.59.06:080][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.26-11.59.06:113][ 98]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.26-11.59.06:113][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-11.59.06:113][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-11.59.06:113][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-11.59.06:113][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-11.59.06:113][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.26-11.59.06:114][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.26-11.59.06:114][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.26-11.59.06:114][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-11.59.06:114][ 98]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-11.59.06:114][ 98]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-11.59.06:114][ 98]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-11.59.06:116][ 98]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.26-11.59.06:134][ 98]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.26-11.59.06:134][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-11.59.06:134][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-11.59.06:134][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-11.59.06:134][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.26-11.59.06:134][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.26-11.59.06:136][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.26-11.59.06:136][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.26-11.59.06:136][ 98]LogInit: FAudioDevice initialized.
+[2023.02.26-11.59.06:136][ 98]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_Dungeon1'.
+[2023.02.26-11.59.06:221][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-11.59.06:253][ 98]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.26-11.59.06:255][ 98]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Dungeon1.L_Dungeon1 up for play (max tick rate 0) at 2023.02.26-11.59.06
+[2023.02.26-11.59.06:314][ 98]LogWorld: Bringing up level for play took: 0.060632
+[2023.02.26-11.59.06:316][ 98]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.02.26-11.59.06:485][ 98]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15352.104 Y=-18246.248 Z=1443.738
+[2023.02.26-11.59.06:486][ 98]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.26-11.59.06:486][ 98]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15352.104 Y=-18246.248 Z=1443.738,P=0.000000 Y=-174.673796 R=0.000000
+[2023.02.26-11.59.06:546][ 98]LogStreaming: Display: FlushAsyncLoading: 24 QueuedPackages, 0 AsyncPackages
+[2023.02.26-11.59.06:648][ 98]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.02.26-11.59.07:410][ 98]PIE: Server logged in
+[2023.02.26-11.59.07:434][ 98]PIE: Play in editor total start time 1.645 seconds.
+[2023.02.26-11.59.07:697][ 98]LogWorldPartition: Detected Streaming Source Teleport: BP_PlayerController_C_0 -> Last Position: X=-15352.104 Y=-18246.248 Z=1443.738 -> New Position: X=0.000 Y=0.000 Z=0.000
+[2023.02.26-11.59.07:748][ 98]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.26-11.59.07:954][ 99]LogWorldPartition: Detected Streaming Source Teleport: BP_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=-16227.577 Y=-19366.305 Z=383.224
+[2023.02.26-11.59.10:896][193]LogViewport: Scene viewport resized to 1920x1006, mode Windowed.
+[2023.02.26-11.59.31:686][356]LogWorldPartition: Detected Streaming Source Teleport: BP_PlayerController_C_0 -> Last Position: X=17052.797 Y=13778.870 Z=585.269 -> New Position: X=-15790.000 Y=-18160.000 Z=152.636
+[2023.02.26-12.02.07:166][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-12.02.07:166][201]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Dungeon1
+[2023.02.26-12.02.07:188][201]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.26-12.02.07:203][201]LogWorld: UWorld::CleanupWorld for L_Dungeon1, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-12.02.07:204][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-12.02.07:242][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-12.02.07:245][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-12.02.07:266][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.26-12.02.07:268][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.26-12.02.07:335][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.02.26-12.02.07:354][202]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.02.26-12.02.08:640][293]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HUD/WBP_MainHud.WBP_MainHud
+[2023.02.26-12.02.08:665][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-12.02.08:685][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-12.02.08:716][293]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.02.26-12.02.10:525][293]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.26-12.02.10:526][293]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.26-12.02.13:031][293]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.02.26-12.02.13:031][293]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.037027s
+[2023.02.26-12.02.13:031][293]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002206s (1.384508s overbudget)
+[2023.02.26-12.02.13:482][293]LogSlate: Took 0.064757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.26-12.02.13:487][293]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.02.26-12.02.13:844][315]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/L_Dungeon1.
+[2023.02.26-12.02.57:408][994]LogSlate: Took 0.075656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.26-12.03.23:710][547]BlueprintLog: New page: Compile WBP_MainHud
+[2023.02.26-12.03.23:858][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.26-12.03.24:503][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_MainHud" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset" SILENT=true
+[2023.02.26-12.03.24:527][597]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007385 seconds
+[2023.02.26-12.03.24:593][597]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_MainHud
+[2023.02.26-12.03.24:594][597]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_MainHud37E4104143F672BAF738E2ACE82B7860.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset'
+[2023.02.26-12.03.24:620][597]AssetCheck: New page: Asset Save: WBP_MainHud
+[2023.02.26-12.03.24:630][597]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_MainHud.WBP_MainHud
+[2023.02.26-12.03.36:877][661]BlueprintLog: New page: Compile WBP_MainHud
+[2023.02.26-12.03.36:979][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.02.26-12.03.37:641][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_MainHud" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset" SILENT=true
+[2023.02.26-12.03.37:675][721]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_MainHud
+[2023.02.26-12.03.37:675][721]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_MainHud1F71C3964A5D44011FF725AAC54430BF.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset'
+[2023.02.26-12.03.37:688][721]AssetCheck: New page: Asset Save: WBP_MainHud
+[2023.02.26-12.03.37:688][721]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_MainHud.WBP_MainHud
+[2023.02.26-12.03.40:433][995]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.26-12.03.40:445][995]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.26-12.03.40:445][995]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.26-12.03.40:445][995]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.26-12.03.40:445][995]LogWorldPartition: Display: ValidateSingleActorReferer took 3 us
+[2023.02.26-12.03.40:445][995]LogWorldPartition: Display: GetPartitionedActors took 53 us
+[2023.02.26-12.03.40:445][995]LogWorldPartition: Display: GenerateStreaming took 355 us
+[2023.02.26-12.03.40:445][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-12.03.40:446][995]PIE: New page: PIE session: L_Dungeon1 (26 Feb 2023, 12:03:40)
+[2023.02.26-12.03.40:446][995]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Dungeon1
+[2023.02.26-12.03.40:477][995]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.26-12.03.40:477][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031635s)
+[2023.02.26-12.03.40:477][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Dungeon1.L_Dungeon1 to /Game/Levels/UEDPIE_0_L_Dungeon1.L_Dungeon1 (0.031691s)
+[2023.02.26-12.03.40:477][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-12.03.40:478][995]LogAIModule: Creating AISystem for world L_Dungeon1
+[2023.02.26-12.03.40:478][995]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.26-12.03.40:478][995]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.26-12.03.40:481][995]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.26-12.03.40:481][995]LogPlayLevel: PIE: World Init took: (0.003607s)
+[2023.02.26-12.03.40:525][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.26-12.03.40:529][995]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.26-12.03.40:529][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-12.03.40:529][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-12.03.40:529][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-12.03.40:529][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-12.03.40:529][995]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.26-12.03.40:529][995]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.26-12.03.40:529][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.26-12.03.40:529][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-12.03.40:529][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-12.03.40:529][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-12.03.40:529][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-12.03.40:531][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.26-12.03.40:550][995]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.26-12.03.40:551][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-12.03.40:551][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-12.03.40:551][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-12.03.40:551][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.02.26-12.03.40:551][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.02.26-12.03.40:553][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.02.26-12.03.40:553][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.02.26-12.03.40:553][995]LogInit: FAudioDevice initialized.
+[2023.02.26-12.03.40:553][995]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_Dungeon1'.
+[2023.02.26-12.03.40:607][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-12.03.40:608][995]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.26-12.03.40:609][995]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Dungeon1.L_Dungeon1 up for play (max tick rate 0) at 2023.02.26-12.03.40
+[2023.02.26-12.03.40:610][995]LogWorld: Bringing up level for play took: 0.001876
+[2023.02.26-12.03.40:612][995]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.02.26-12.03.40:612][995]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15352.104 Y=-18246.248 Z=1443.738
+[2023.02.26-12.03.40:613][995]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.26-12.03.40:613][995]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15352.104 Y=-18246.248 Z=1443.738,P=0.000000 Y=-174.673796 R=0.000000
+[2023.02.26-12.03.40:613][995]LogStreaming: Display: FlushAsyncLoading: 24 QueuedPackages, 0 AsyncPackages
+[2023.02.26-12.03.40:666][995]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.02.26-12.03.40:705][995]PIE: Server logged in
+[2023.02.26-12.03.40:706][995]PIE: Play in editor total start time 0.264 seconds.
+[2023.02.26-12.03.40:717][995]LogWorldPartition: Detected Streaming Source Teleport: BP_PlayerController_C_0 -> Last Position: X=-15352.104 Y=-18246.248 Z=1443.738 -> New Position: X=0.000 Y=0.000 Z=0.000
+[2023.02.26-12.03.40:730][995]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.26-12.03.40:788][996]LogWorldPartition: Detected Streaming Source Teleport: BP_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=-16227.577 Y=-19366.305 Z=383.224
+[2023.02.26-12.03.54:612][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-12.03.54:612][880]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Dungeon1
+[2023.02.26-12.03.54:613][880]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.26-12.03.54:622][880]LogWorld: UWorld::CleanupWorld for L_Dungeon1, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-12.03.54:624][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-12.03.54:638][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-12.03.54:645][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-12.03.54:683][880]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.26-12.03.54:684][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.26-12.03.54:686][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.26-12.03.54:697][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.02.26-12.03.54:721][881]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.02.26-12.04.07:378][ 65]BlueprintLog: New page: Compile WBP_MainHud
+[2023.02.26-12.04.07:460][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.02.26-12.04.07:925][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_MainHud" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset" SILENT=true
+[2023.02.26-12.04.07:959][101]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_MainHud
+[2023.02.26-12.04.07:960][101]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_MainHud0F1BE93741242CEC50440EA42EFE337B.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset'
+[2023.02.26-12.04.07:972][101]AssetCheck: New page: Asset Save: WBP_MainHud
+[2023.02.26-12.04.07:973][101]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_MainHud.WBP_MainHud
+[2023.02.26-12.04.09:094][230]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.26-12.04.09:103][230]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.26-12.04.09:103][230]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.26-12.04.09:103][230]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.26-12.04.09:103][230]LogWorldPartition: Display: ValidateSingleActorReferer took 3 us
+[2023.02.26-12.04.09:103][230]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.02.26-12.04.09:103][230]LogWorldPartition: Display: GenerateStreaming took 309 us
+[2023.02.26-12.04.09:103][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-12.04.09:104][230]PIE: New page: PIE session: L_Dungeon1 (26 Feb 2023, 12:04:09)
+[2023.02.26-12.04.09:104][230]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Dungeon1
+[2023.02.26-12.04.09:127][230]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.26-12.04.09:128][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023971s)
+[2023.02.26-12.04.09:128][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Dungeon1.L_Dungeon1 to /Game/Levels/UEDPIE_0_L_Dungeon1.L_Dungeon1 (0.024022s)
+[2023.02.26-12.04.09:128][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-12.04.09:128][230]LogAIModule: Creating AISystem for world L_Dungeon1
+[2023.02.26-12.04.09:128][230]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.26-12.04.09:128][230]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.26-12.04.09:131][230]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.26-12.04.09:131][230]LogPlayLevel: PIE: World Init took: (0.003107s)
+[2023.02.26-12.04.09:163][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.26-12.04.09:165][230]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.26-12.04.09:165][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-12.04.09:165][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-12.04.09:165][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-12.04.09:165][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-12.04.09:165][230]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.26-12.04.09:165][230]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.26-12.04.09:165][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.26-12.04.09:165][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-12.04.09:166][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-12.04.09:166][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-12.04.09:166][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-12.04.09:168][230]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.26-12.04.09:184][230]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.26-12.04.09:185][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-12.04.09:185][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-12.04.09:185][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-12.04.09:185][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.02.26-12.04.09:185][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.02.26-12.04.09:187][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.02.26-12.04.09:187][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.02.26-12.04.09:187][230]LogInit: FAudioDevice initialized.
+[2023.02.26-12.04.09:187][230]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_Dungeon1'.
+[2023.02.26-12.04.09:225][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-12.04.09:226][230]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.26-12.04.09:228][230]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Dungeon1.L_Dungeon1 up for play (max tick rate 0) at 2023.02.26-12.04.09
+[2023.02.26-12.04.09:228][230]LogWorld: Bringing up level for play took: 0.002005
+[2023.02.26-12.04.09:230][230]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.02.26-12.04.09:230][230]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.26-12.04.09:230][230]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2023.02.26-12.04.09:230][230]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.26-12.04.09:230][230]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.02.26-12.04.09:231][230]LogStreaming: Display: FlushAsyncLoading: 24 QueuedPackages, 0 AsyncPackages
+[2023.02.26-12.04.09:286][230]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.02.26-12.04.09:325][230]PIE: Server logged in
+[2023.02.26-12.04.09:326][230]PIE: Play in editor total start time 0.224 seconds.
+[2023.02.26-12.04.09:345][230]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.26-12.04.09:401][231]LogWorldPartition: Detected Streaming Source Teleport: BP_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=-16227.577 Y=-19366.305 Z=383.224
+[2023.02.26-12.04.18:322][741]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.26-12.04.18:322][741]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.02.26-12.04.18:322][741]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.02.26-12.04.20:164][857]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.02.26-12.04.20:164][857]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.02.26-12.04.21:495][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-12.04.21:495][938]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Dungeon1
+[2023.02.26-12.04.21:496][938]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.26-12.04.21:504][938]LogWorld: UWorld::CleanupWorld for L_Dungeon1, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-12.04.21:505][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-12.04.21:514][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-12.04.21:522][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-12.04.21:557][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.26-12.04.21:559][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.26-12.04.21:560][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.26-12.04.21:572][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.26-12.04.21:590][939]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.02.26-12.04.28:428][635]BlueprintLog: New page: Compile WBP_MainHud
+[2023.02.26-12.04.28:509][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.26-12.04.30:092][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_MainHud" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset" SILENT=true
+[2023.02.26-12.04.30:127][806]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_MainHud
+[2023.02.26-12.04.30:128][806]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_MainHudD293AA7E4F19475F67D7869E6CB7849B.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset'
+[2023.02.26-12.04.30:140][806]AssetCheck: New page: Asset Save: WBP_MainHud
+[2023.02.26-12.04.30:140][806]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_MainHud.WBP_MainHud
+[2023.02.26-12.04.31:217][909]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.26-12.04.31:227][909]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.26-12.04.31:227][909]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.26-12.04.31:227][909]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.26-12.04.31:227][909]LogWorldPartition: Display: ValidateSingleActorReferer took 3 us
+[2023.02.26-12.04.31:227][909]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2023.02.26-12.04.31:227][909]LogWorldPartition: Display: GenerateStreaming took 320 us
+[2023.02.26-12.04.31:227][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-12.04.31:227][909]PIE: New page: PIE session: L_Dungeon1 (26 Feb 2023, 12:04:31)
+[2023.02.26-12.04.31:228][909]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Dungeon1
+[2023.02.26-12.04.31:252][909]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.26-12.04.31:253][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024991s)
+[2023.02.26-12.04.31:253][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Dungeon1.L_Dungeon1 to /Game/Levels/UEDPIE_0_L_Dungeon1.L_Dungeon1 (0.025047s)
+[2023.02.26-12.04.31:253][909]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-12.04.31:253][909]LogAIModule: Creating AISystem for world L_Dungeon1
+[2023.02.26-12.04.31:253][909]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.26-12.04.31:253][909]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.26-12.04.31:256][909]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.26-12.04.31:256][909]LogPlayLevel: PIE: World Init took: (0.003258s)
+[2023.02.26-12.04.31:289][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.02.26-12.04.31:291][909]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.26-12.04.31:291][909]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-12.04.31:291][909]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-12.04.31:291][909]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-12.04.31:291][909]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-12.04.31:291][909]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.26-12.04.31:291][909]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.26-12.04.31:291][909]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.26-12.04.31:291][909]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-12.04.31:292][909]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-12.04.31:292][909]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-12.04.31:292][909]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-12.04.31:294][909]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.26-12.04.31:310][909]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- RIG 800HX)
+[2023.02.26-12.04.31:311][909]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-12.04.31:311][909]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-12.04.31:311][909]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-12.04.31:311][909]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.02.26-12.04.31:312][909]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.02.26-12.04.31:313][909]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.02.26-12.04.31:313][909]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.02.26-12.04.31:313][909]LogInit: FAudioDevice initialized.
+[2023.02.26-12.04.31:313][909]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_Dungeon1'.
+[2023.02.26-12.04.31:357][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-12.04.31:358][909]LogLoad: Game class is 'BP_GameMode_C'
+[2023.02.26-12.04.31:359][909]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Dungeon1.L_Dungeon1 up for play (max tick rate 0) at 2023.02.26-12.04.31
+[2023.02.26-12.04.31:360][909]LogWorld: Bringing up level for play took: 0.001863
+[2023.02.26-12.04.31:361][909]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.02.26-12.04.31:362][909]LogWorldPartition: New Streaming Source: BP_PlayerController_C_0 -> Position: X=-15352.104 Y=-18246.248 Z=1443.738
+[2023.02.26-12.04.31:362][909]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(4), CellsToLoad(0), CellsToUnload(0)
+[2023.02.26-12.04.31:362][909]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-15352.104 Y=-18246.248 Z=1443.738,P=0.000000 Y=-174.673796 R=0.000000
+[2023.02.26-12.04.31:363][909]LogStreaming: Display: FlushAsyncLoading: 24 QueuedPackages, 0 AsyncPackages
+[2023.02.26-12.04.31:415][909]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.02.26-12.04.31:455][909]PIE: Server logged in
+[2023.02.26-12.04.31:456][909]PIE: Play in editor total start time 0.231 seconds.
+[2023.02.26-12.04.31:467][909]LogWorldPartition: Detected Streaming Source Teleport: BP_PlayerController_C_0 -> Last Position: X=-15352.104 Y=-18246.248 Z=1443.738 -> New Position: X=0.000 Y=0.000 Z=0.000
+[2023.02.26-12.04.31:479][909]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.26-12.04.31:535][910]LogWorldPartition: Detected Streaming Source Teleport: BP_PlayerController_C_0 -> Last Position: X=0.000 Y=0.000 Z=0.000 -> New Position: X=-16227.577 Y=-19366.305 Z=383.224
+[2023.02.26-12.04.41:072][489]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.26-12.04.41:072][489]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.02.26-12.04.41:072][489]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.02.26-12.04.42:620][582]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.02.26-12.04.42:620][582]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.02.26-12.04.43:611][642]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.26-12.04.43:612][642]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.02.26-12.04.45:435][758]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.02.26-12.04.45:435][758]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.02.26-12.04.49:579][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-12.04.49:579][ 13]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Dungeon1
+[2023.02.26-12.04.49:580][ 13]LogSlate: Window 'GamesJam3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.02.26-12.04.49:589][ 13]LogWorld: UWorld::CleanupWorld for L_Dungeon1, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-12.04.49:590][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-12.04.49:599][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-12.04.49:607][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-12.04.49:644][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.26-12.04.49:645][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.02.26-12.04.49:647][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.02.26-12.04.49:659][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.26-12.04.49:681][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.02.26-12.06.26:711][383]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.02.26-12.06.27:013][383]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.02.26-12.08.35:959][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_MainHud" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset" SILENT=true
+[2023.02.26-12.08.35:993][301]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_MainHud
+[2023.02.26-12.08.35:994][301]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_MainHudB9892C8D477E8347DEFFBDAAA188681E.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset'
+[2023.02.26-12.08.36:010][301]AssetCheck: New page: Asset Save: WBP_MainHud
+[2023.02.26-12.08.36:010][301]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_MainHud.WBP_MainHud
+[2023.02.26-12.08.55:432][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerController.BP_PlayerController
+[2023.02.26-12.08.55:462][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-12.08.55:997][526]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/PhAT_FloorBox) ...
+[2023.02.26-12.09.12:504][285]BlueprintLog: New page: Compile BP_PlayerController
+[2023.02.26-12.09.12:623][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.02.26-12.09.15:011][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BPI_PlayerInterface.BPI_PlayerInterface
+[2023.02.26-12.09.15:011][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-12.11.35:200][965]LogWindows: LaunchURL https://docs.unrealengine.com/5.0/en//Engine/Blueprints/UserGuide/Types/Interface/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2023.02.26-12.11.44:196][610]BlueprintLog: New page: Compile BPI_PlayerInterface
+[2023.02.26-12.11.44:317][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.26-12.11.44:783][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BPI_PlayerInterface
+[2023.02.26-12.11.44:784][657]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BPI_PlayerInterface85E51EEA4527930CC1D503AC0AD5C1D6.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BPI_PlayerInterface.uasset'
+[2023.02.26-12.11.44:798][657]AssetCheck: New page: Asset Save: BPI_PlayerInterface
+[2023.02.26-12.11.44:798][657]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BPI_PlayerInterface.BPI_PlayerInterface
+[2023.02.26-12.12.27:899][672]BlueprintLog: New page: Compile BP_PlayerController
+[2023.02.26-12.12.27:976][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.02.26-12.12.28:510][718]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerController
+[2023.02.26-12.12.28:510][718]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerController717AC9F04F175BE6D46FD4BF3A1A4011.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerController.uasset'
+[2023.02.26-12.12.28:525][718]AssetCheck: New page: Asset Save: BP_PlayerController
+[2023.02.26-12.12.28:525][718]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerController.BP_PlayerController
+[2023.02.26-12.12.40:237][  6]LogContentBrowser: Attempting asset rename: NewPlayers -> Player
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_SetSpeedValues.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_RecoverInventory.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_SetMoveSpeed.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_ShowMouseCursor.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_HideMouseCursor.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_SaveInventory.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_IncreaseStats.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_SetVisibility&Materials.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_ManaCheck.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_PotionPickedUp.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_AddPotion.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:593][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent:F_AbilityDamageSet.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:ReceiveAnyDamage' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:MoveForward' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:MoveRight' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:LookRight' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:LookUp' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:IStopJumping' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_UpdateHealthAndMana' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_UpdateMoney' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_SetSpeedValues' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_RecoverInventory' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_SetMoveSpeed' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_ShowMouseCursor' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_HideMouseCursor' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_SaveInventory' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_ManaCheck' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_SetVisibility&Materials' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:EnemyKilled' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:AddHealth' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:GearBought' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:CheckHit' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_AbilityDamageSet' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent_C:F_PotionPickedUp' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:MoveForward' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:MoveRight' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:LookRight' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:LookUp' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:IJump' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:IStopJumping' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:Pause' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:OpenShop' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:ComboReset' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:CheckHit' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:ReceiveAnyDamage' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:GearBought' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:ShopTimer' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:BndEvt__BP_PlayerCharacterParent_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:BndEvt__BP_PlayerCharacterParent_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:AddHealth' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:Ability1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:RMB-Held' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:Death' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:Ability2' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:EnemyKilled' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:CutsceneFinished' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_UpdateHealthAndMana' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_UpdateMoney' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_SetSpeedValues' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_RecoverInventory' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_SetMoveSpeed' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_ShowMouseCursor' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_HideMouseCursor' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_SaveInventory' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_ManaCheck' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_SetVisibility&Materials' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_AbilityDamageSet' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:F_PotionPickedUp' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:Attack' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:A1-Pressed' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:A1-Released' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:594][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:A2-Pressed' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:595][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:A2-Released' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:595][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:RMB_Released' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:595][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:I_HealthPot' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:595][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_CharacterParent.SKEL_BP_CharacterParent_C:I_ManaPot' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_CharacterParent.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee:EventGraph.K2Node_CallParentFunction_4' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:CheckHit' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnCompleted_0E8A09214EA681D0BEC139AE6CC98AAD' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnBlendOut_0E8A09214EA681D0BEC139AE6CC98AAD' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnInterrupted_0E8A09214EA681D0BEC139AE6CC98AAD' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyBegin_0E8A09214EA681D0BEC139AE6CC98AAD' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyEnd_0E8A09214EA681D0BEC139AE6CC98AAD' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnCompleted_FF39B9C54FD7EA71075B87A9CDF8E6D4' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnBlendOut_FF39B9C54FD7EA71075B87A9CDF8E6D4' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnInterrupted_FF39B9C54FD7EA71075B87A9CDF8E6D4' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyBegin_FF39B9C54FD7EA71075B87A9CDF8E6D4' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyEnd_FF39B9C54FD7EA71075B87A9CDF8E6D4' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnCompleted_D3087E874598D5A4CBE7D7895615843A' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnBlendOut_D3087E874598D5A4CBE7D7895615843A' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnInterrupted_D3087E874598D5A4CBE7D7895615843A' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyBegin_D3087E874598D5A4CBE7D7895615843A' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyEnd_D3087E874598D5A4CBE7D7895615843A' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnCompleted_832F21104958068C3A654CA1C9BC3BBA' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnBlendOut_832F21104958068C3A654CA1C9BC3BBA' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnInterrupted_832F21104958068C3A654CA1C9BC3BBA' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyBegin_832F21104958068C3A654CA1C9BC3BBA' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyEnd_832F21104958068C3A654CA1C9BC3BBA' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnCompleted_AEEC54D242B553040E9ECF8F7CD315F3' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnBlendOut_AEEC54D242B553040E9ECF8F7CD315F3' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnInterrupted_AEEC54D242B553040E9ECF8F7CD315F3' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyBegin_AEEC54D242B553040E9ECF8F7CD315F3' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyEnd_AEEC54D242B553040E9ECF8F7CD315F3' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnCompleted_EB9A49114C59F9285310CB8F450C9FC6' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnBlendOut_EB9A49114C59F9285310CB8F450C9FC6' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnInterrupted_EB9A49114C59F9285310CB8F450C9FC6' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyBegin_EB9A49114C59F9285310CB8F450C9FC6' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee_C:OnNotifyEnd_EB9A49114C59F9285310CB8F450C9FC6' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:Attack' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:A1-Pressed' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:A1-Released' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:RMB-Held' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:Ability2' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:612][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:A2-Pressed' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:613][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:A2-Released' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:613][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:Death' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:613][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:ComboReset' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:613][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:CheckHit' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:613][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:Ability1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:613][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:613][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Melee.SKEL_BP_Character_Melee_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Melee.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged:M_SpawnArrow.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged:M_SpawnArrow.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnCompleted_0E57B7D24C746DBC53FE7F8BFFC47E94' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnBlendOut_0E57B7D24C746DBC53FE7F8BFFC47E94' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnInterrupted_0E57B7D24C746DBC53FE7F8BFFC47E94' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnNotifyBegin_0E57B7D24C746DBC53FE7F8BFFC47E94' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnNotifyEnd_0E57B7D24C746DBC53FE7F8BFFC47E94' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnCompleted_087BBAF146E0E1C743D11EBED0152B92' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnBlendOut_087BBAF146E0E1C743D11EBED0152B92' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnInterrupted_087BBAF146E0E1C743D11EBED0152B92' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnNotifyBegin_087BBAF146E0E1C743D11EBED0152B92' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnNotifyEnd_087BBAF146E0E1C743D11EBED0152B92' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnCompleted_BEABBA1B45C6E9D6DB65359AA9AA08B1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnBlendOut_BEABBA1B45C6E9D6DB65359AA9AA08B1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnInterrupted_BEABBA1B45C6E9D6DB65359AA9AA08B1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnNotifyBegin_BEABBA1B45C6E9D6DB65359AA9AA08B1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnNotifyEnd_BEABBA1B45C6E9D6DB65359AA9AA08B1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnCompleted_7FB080B84038948D5F60A3B98F1E5B3B' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnBlendOut_7FB080B84038948D5F60A3B98F1E5B3B' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnInterrupted_7FB080B84038948D5F60A3B98F1E5B3B' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnNotifyBegin_7FB080B84038948D5F60A3B98F1E5B3B' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged_C:OnNotifyEnd_7FB080B84038948D5F60A3B98F1E5B3B' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:Attack' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:ComboReset' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:615][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:GrabbedArrow' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:SpawnArrow' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:ArrowHit' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:A1-Pressed' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:A1-Released' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:Ability1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:Ability2' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:A2-Pressed' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:A2-Released' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:Death' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:616][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Character_Ranged.SKEL_BP_Character_Ranged_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.BP_Arrow:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.BP_Arrow_C' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.BP_Arrow:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.BP_Arrow:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.BP_Arrow:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.SKEL_BP_Arrow_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.SKEL_BP_Arrow_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.SKEL_BP_Arrow_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.SKEL_BP_Arrow_C:BndEvt__BP_Arrow_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.SKEL_BP_Arrow_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:620][  6]LogMetaData: Removing '/Game/Blueprints/Player/Player/BP_Arrow.SKEL_BP_Arrow_C' ref from Metadata '/Game/Blueprints/Player/NewPlayers/BP_Arrow.PackageMetaData'
+[2023.02.26-12.12.40:805][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Player/BP_CharacterParent
+[2023.02.26-12.12.40:805][  6]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_CharacterParent6827D69A4A98A17901915EB799EF9E1F.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Player/BP_CharacterParent.uasset'
+[2023.02.26-12.12.40:807][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/NewPlayers/BP_CharacterParent
+[2023.02.26-12.12.40:807][  6]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_CharacterParent680ED2724E003656CA42AF968CD58A9F.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/NewPlayers/BP_CharacterParent.uasset'
+[2023.02.26-12.12.40:875][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Player/BP_Character_Melee
+[2023.02.26-12.12.40:875][  6]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_Character_Melee3611676446FD56863CAFF0BB59A75431.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Player/BP_Character_Melee.uasset'
+[2023.02.26-12.12.40:877][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/NewPlayers/BP_Character_Melee
+[2023.02.26-12.12.40:877][  6]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_Character_Melee66CD4F5A490450561C40968E67DDD6CC.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/NewPlayers/BP_Character_Melee.uasset'
+[2023.02.26-12.12.40:950][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Player/BP_Character_Ranged
+[2023.02.26-12.12.40:950][  6]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_Character_Ranged6B6D3B7F413B4CAF99BDE8B84B96BA7D.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Player/BP_Character_Ranged.uasset'
+[2023.02.26-12.12.40:952][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/NewPlayers/BP_Character_Ranged
+[2023.02.26-12.12.40:953][  6]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_Character_Ranged39E6A8BD436385CB784EE99A2BAF7DF0.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/NewPlayers/BP_Character_Ranged.uasset'
+[2023.02.26-12.12.40:954][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Player/BP_Arrow" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Player/BP_Arrow.uasset" SILENT=true
+[2023.02.26-12.12.40:959][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Player/BP_Arrow
+[2023.02.26-12.12.40:959][  6]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_Arrow03BC85AE441459395105A28062CAA8D5.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Player/BP_Arrow.uasset'
+[2023.02.26-12.12.41:022][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.02.26-12.12.41:070][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.02.26-12.12.41:113][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.02.26-12.12.41:140][  6]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.26-12.12.41:140][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/Player/BP_CharacterParent.BP_CharacterParent
+[2023.02.26-12.12.41:140][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/Player/BP_Character_Melee.BP_Character_Melee
+[2023.02.26-12.12.41:140][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/Player/BP_Character_Ranged.BP_Character_Ranged
+[2023.02.26-12.12.41:140][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/Player/BP_Arrow.BP_Arrow
+[2023.02.26-12.12.41:141][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.BP_Character_Ranged
+[2023.02.26-12.12.41:141][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.Default__BP_Character_Ranged_C
+[2023.02.26-12.12.41:141][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Player/NewPlayers/BP_Character_Ranged.BP_Character_Ranged_C
+[2023.02.26-12.12.41:141][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Player/NewPlayers/BP_Character_Melee.BP_Character_Melee
+[2023.02.26-12.12.41:141][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Player/NewPlayers/BP_Character_Melee.Default__BP_Character_Melee_C
+[2023.02.26-12.12.41:141][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Player/NewPlayers/BP_Character_Melee.BP_Character_Melee_C
+[2023.02.26-12.12.41:141][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Player/NewPlayers/BP_CharacterParent.BP_CharacterParent
+[2023.02.26-12.12.41:141][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Player/NewPlayers/BP_CharacterParent.Default__BP_CharacterParent_C
+[2023.02.26-12.12.41:141][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Player/NewPlayers/BP_CharacterParent.BP_CharacterParent_C
+[2023.02.26-12.12.50:130][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_ItemBox" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_ItemBox.uasset" SILENT=true
+[2023.02.26-12.12.50:155][946]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_ItemBox
+[2023.02.26-12.12.50:156][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_ItemBoxFDF19EA046E3AC942548F097F7CB1744.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_ItemBox.uasset'
+[2023.02.26-12.12.50:157][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_GameMode" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_GameMode.uasset" SILENT=true
+[2023.02.26-12.12.50:160][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_GameMode
+[2023.02.26-12.12.50:160][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_GameModeEA40119A4923CD9A10723094A1CB09E4.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_GameMode.uasset'
+[2023.02.26-12.12.50:286][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_MeleeEnemyParent
+[2023.02.26-12.12.50:287][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_MeleeEnemyParent5F88F9CB43430BB1D8A18FAE8A355294.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Enemies/BP_MeleeEnemyParent.uasset'
+[2023.02.26-12.12.50:292][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_MainHud" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset" SILENT=true
+[2023.02.26-12.12.50:329][946]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_MainHud
+[2023.02.26-12.12.50:330][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_MainHudA4BEB561491BED6C53BFB2997DF4DCCC.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_MainHud.uasset'
+[2023.02.26-12.12.50:353][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_Chest" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset" SILENT=true
+[2023.02.26-12.12.50:403][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Chest
+[2023.02.26-12.12.50:403][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_Chest870D3D284E6EFCF2ACCE23BC6E235338.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_Chest.uasset'
+[2023.02.26-12.12.50:407][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_ItemPickedUp" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_ItemPickedUp.uasset" SILENT=true
+[2023.02.26-12.12.50:424][946]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_ItemPickedUp
+[2023.02.26-12.12.50:424][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_ItemPickedUpFF67726146F56C39D97959B61A70AAC2.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_ItemPickedUp.uasset'
+[2023.02.26-12.12.50:428][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_Shop" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_Shop.uasset" SILENT=true
+[2023.02.26-12.12.50:480][946]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_Shop
+[2023.02.26-12.12.50:481][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_Shop76D81AF44298B75169F65BA9A79AFD7F.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_Shop.uasset'
+[2023.02.26-12.12.50:482][946]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-12.12.50:535][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.26-12.12.50:546][946]LogSavePackage: Moving output files for package: /Game/Levels/L_CharacterSelect
+[2023.02.26-12.12.50:546][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/L_CharacterSelect80D96A3E473EC9C1D6A42C9A967D0700.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Levels/L_CharacterSelect.umap'
+[2023.02.26-12.12.50:659][946]LogFileHelpers: Saving map 'L_CharacterSelect' took 0.140
+[2023.02.26-12.12.50:659][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ShopBox" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/BP_ShopBox.uasset" SILENT=true
+[2023.02.26-12.12.50:665][946]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ShopBox
+[2023.02.26-12.12.50:665][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_ShopBoxF0954FE34EAED44C7A1FFD8A701B93F0.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/BP_ShopBox.uasset'
+[2023.02.26-12.12.50:666][946]LogFileHelpers: No new changes to save!
+[2023.02.26-12.12.50:667][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Dungeon1" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Levels/L_Dungeon1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.26-12.12.50:713][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.26-12.12.50:740][946]LogSavePackage: Moving output files for package: /Game/Levels/L_Dungeon1
+[2023.02.26-12.12.50:740][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/L_Dungeon1E13E86894B697A85EE7B879897AA6022.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Levels/L_Dungeon1.umap'
+[2023.02.26-12.12.50:752][946]LogFileHelpers: Saving map 'L_Dungeon1' took 0.086
+[2023.02.26-12.12.50:754][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_HealthBar" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_HealthBar.uasset" SILENT=true
+[2023.02.26-12.12.50:760][946]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_HealthBar
+[2023.02.26-12.12.50:760][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_HealthBar415AAEB14B432A3AF2C24886E1786AC8.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_HealthBar.uasset'
+[2023.02.26-12.12.50:770][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_0
+	Function /Game/Blueprints/Player/Melee_Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.26-12.12.50:770][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_0
+	Function /Game/Blueprints/Player/Melee_Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.26-12.12.50:770][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_0
+	Function /Game/Blueprints/Player/Melee_Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.26-12.12.50:770][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_0
+	Function /Game/Blueprints/Player/Melee_Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:0177
+[2023.02.26-12.12.50:770][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_0
+	Function /Game/Blueprints/Player/Melee_Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:01A9
+[2023.02.26-12.12.50:770][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerAnimation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerAnimation_C_0
+	Function /Game/Blueprints/Player/Melee_Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation_C:ExecuteUbergraph_ABP_PlayerAnimation:025F
+[2023.02.26-12.12.50:803][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Melee_Mesh/ABP_PlayerAnimation
+[2023.02.26-12.12.50:803][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/ABP_PlayerAnimation101C86DE47905E75DA21D5AEB79A0B99.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Melee_Mesh/ABP_PlayerAnimation.uasset'
+[2023.02.26-12.12.50:807][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_Timer" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_Timer.uasset" SILENT=true
+[2023.02.26-12.12.50:819][946]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_Timer
+[2023.02.26-12.12.50:820][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_Timer4FEED8C046B6B397568D5398B18FE54B.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_Timer.uasset'
+[2023.02.26-12.12.50:821][946]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-12.12.50:822][946]LogFileHelpers: No new changes to save!
+[2023.02.26-12.12.50:822][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelBase" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Levels/LevelBase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.26-12.12.50:867][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.26-12.12.50:892][946]LogSavePackage: Moving output files for package: /Game/Levels/LevelBase
+[2023.02.26-12.12.50:892][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/LevelBaseEE156A834F127ACF8790208E0BB1EEC6.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Levels/LevelBase.umap'
+[2023.02.26-12.12.50:899][946]LogFileHelpers: Saving map 'LevelBase' took 0.078
+[2023.02.26-12.12.50:920][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_CollectibleParent
+[2023.02.26-12.12.50:920][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_CollectibleParent61BB9C5944010EB7D1BF958B6FC21165.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_CollectibleParent.uasset'
+[2023.02.26-12.12.50:950][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_ManaPot" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_ManaPot.uasset" SILENT=true
+[2023.02.26-12.12.50:957][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_ManaPot
+[2023.02.26-12.12.50:958][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_ManaPot4DFCDE1342E561556411789E5A6DE525.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_ManaPot.uasset'
+[2023.02.26-12.12.50:979][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_HealthPot" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_HealthPot.uasset" SILENT=true
+[2023.02.26-12.12.50:985][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_HealthPot
+[2023.02.26-12.12.50:986][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_HealthPot9FEA0ED243E69C58DF3089B973D8A96E.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Items/BP_HealthPot.uasset'
+[2023.02.26-12.12.50:987][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_GameInstance" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_GameInstance.uasset" SILENT=true
+[2023.02.26-12.12.50:989][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_GameInstance
+[2023.02.26-12.12.50:990][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_GameInstanceC1CEC59244BFBE39E6BB6CB887069069.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_GameInstance.uasset'
+[2023.02.26-12.12.51:004][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerController
+[2023.02.26-12.12.51:005][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_PlayerController9A89AE1F4212E9B5739A9E8CBBFC5690.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/BP_PlayerController.uasset'
+[2023.02.26-12.12.51:011][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD/WBP_CharacterSelect" FILE="C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_CharacterSelect.uasset" SILENT=true
+[2023.02.26-12.12.51:019][946]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_CharacterSelect
+[2023.02.26-12.12.51:020][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/WBP_CharacterSelectC632D5D54100B62489B218AB78886FFB.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/HUD/WBP_CharacterSelect.uasset'
+[2023.02.26-12.12.51:032][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_RangedCharacter_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RangedCharacter_C_0
+	Function /Game/Blueprints/Player/Ranged_Mesh/ABP_RangedCharacter.ABP_RangedCharacter_C:ExecuteUbergraph_ABP_RangedCharacter:0226
+[2023.02.26-12.12.51:032][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_RangedCharacter_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RangedCharacter_C_0
+	Function /Game/Blueprints/Player/Ranged_Mesh/ABP_RangedCharacter.ABP_RangedCharacter_C:ExecuteUbergraph_ABP_RangedCharacter:0258
+[2023.02.26-12.12.51:032][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_RangedCharacter_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RangedCharacter_C_0
+	Function /Game/Blueprints/Player/Ranged_Mesh/ABP_RangedCharacter.ABP_RangedCharacter_C:ExecuteUbergraph_ABP_RangedCharacter:030E
+[2023.02.26-12.12.51:032][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_RangedCharacter_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RangedCharacter_C_0
+	Function /Game/Blueprints/Player/Ranged_Mesh/ABP_RangedCharacter.ABP_RangedCharacter_C:ExecuteUbergraph_ABP_RangedCharacter:0226
+[2023.02.26-12.12.51:032][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_RangedCharacter_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RangedCharacter_C_0
+	Function /Game/Blueprints/Player/Ranged_Mesh/ABP_RangedCharacter.ABP_RangedCharacter_C:ExecuteUbergraph_ABP_RangedCharacter:0258
+[2023.02.26-12.12.51:032][946]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue_1
+	ABP_RangedCharacter_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RangedCharacter_C_0
+	Function /Game/Blueprints/Player/Ranged_Mesh/ABP_RangedCharacter.ABP_RangedCharacter_C:ExecuteUbergraph_ABP_RangedCharacter:030E
+[2023.02.26-12.12.51:110][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Ranged_Mesh/ABP_RangedCharacter
+[2023.02.26-12.12.51:110][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/ABP_RangedCharacterC1C28847404ABA90E17947BF393766CB.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Ranged_Mesh/ABP_RangedCharacter.uasset'
+[2023.02.26-12.12.51:137][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Abilities/BP_AbilityArrow
+[2023.02.26-12.12.51:138][946]LogSavePackage: Moving 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Saved/BP_AbilityArrowCA9EF33D4247B096CA9EFABFEB8CEEDF.tmp' to 'C:/Users/Ricor/OneDrive/Documents/Unreal Projects/GamesJam3Self/Content/Blueprints/Player/Abilities/BP_AbilityArrow.uasset'
+[2023.02.26-12.12.51:225][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.26-12.12.51:571][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.02.26-12.12.51:616][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.26-12.12.51:660][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.26-12.12.51:706][946]LogWorldPartition: Warning: Actor /Game/Levels/LevelBase.LevelBase:PersistentLevel.WorldDataLayers is unreachable without properly detaching object /Game/__ExternalActors__/Levels/LevelBase/5/1J/78CKQQL9PREA3A4KVGW2NN.PackageMetaData in its package
+[2023.02.26-12.12.51:706][946]LogWorldPartition: Warning: Actor /Game/Levels/LevelBase.LevelBase:PersistentLevel.LevelSequenceActor_UAID_D8BBC10BF87B706901_1083189772 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/LevelBase/2/OG/3HUA9UTGNE68AL4ZOULUS2.PackageMetaData in its package
+[2023.02.26-12.12.51:707][946]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2023.02.26-12.12.51:708][946]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2023.02.26-12.12.51:711][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.02.26-12.12.51:727][946]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.26-12.12.51:728][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/BP_MeleeEnemyParent.BP_MeleeEnemyParent
+[2023.02.26-12.12.51:728][946]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Melee_Mesh/ABP_PlayerAnimation.ABP_PlayerAnimation
+[2023.02.26-12.12.51:728][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_CollectibleParent.BP_CollectibleParent
+[2023.02.26-12.12.51:728][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_ItemPickedUp.WBP_ItemPickedUp
+[2023.02.26-12.12.51:728][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_Chest.BP_Chest
+[2023.02.26-12.12.51:728][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_HealthPot.BP_HealthPot
+[2023.02.26-12.12.51:728][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_GameInstance.BP_GameInstance
+[2023.02.26-12.12.51:728][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_MainHud.WBP_MainHud
+[2023.02.26-12.12.51:729][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_PlayerController.BP_PlayerController
+[2023.02.26-12.12.51:729][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/Abilities/BP_AbilityArrow.BP_AbilityArrow
+[2023.02.26-12.12.51:729][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_Shop.WBP_Shop
+[2023.02.26-12.12.51:729][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_ItemBox.WBP_ItemBox
+[2023.02.26-12.12.51:730][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_Timer.WBP_Timer
+[2023.02.26-12.12.51:730][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_HealthBar.WBP_HealthBar
+[2023.02.26-12.12.51:730][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_ManaPot.BP_ManaPot
+[2023.02.26-12.12.51:730][946]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Player/Ranged_Mesh/ABP_RangedCharacter.ABP_RangedCharacter
+[2023.02.26-12.12.51:730][946]LogContentValidation: Display: Validating World /Game/Levels/L_Dungeon1.L_Dungeon1
+[2023.02.26-12.12.51:730][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ShopBox.BP_ShopBox
+[2023.02.26-12.12.51:730][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_GameMode.BP_GameMode
+[2023.02.26-12.12.51:730][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUD/WBP_CharacterSelect.WBP_CharacterSelect
+[2023.02.26-12.12.51:730][946]LogContentValidation: Display: Validating World /Game/Levels/L_CharacterSelect.L_CharacterSelect
+[2023.02.26-12.12.51:740][946]LogContentValidation: Display: Validating World /Game/Levels/LevelBase.LevelBase
+[2023.02.26-12.12.51:800][946]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.26-12.12.51:838][946]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.039 s
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: === Handled ensure: ===
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: 
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: Ensure condition failed: LoadedObject [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Public\ExternalPackageHelper.h] [Line: 136]
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: 
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: Stack: 
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: [Callstack] 0x00007ffe3396167f UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: [Callstack] 0x00007ffe339aae0d UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: [Callstack] 0x00007ffe907326e5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: [Callstack] 0x00007ffe90748c9c UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: [Callstack] 0x00007ffe32eadaad UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.26-12.12.51:838][946]LogOutputDevice: Error: [Callstack] 0x00007ffe90732598 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe9086507a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe908504a2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe90879357 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe90877c9a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe908781f0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe9088fc28 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe9089bfc5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe9089b7f5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe3d74022d UnrealEditor-DataValidation.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe3d74155d UnrealEditor-DataValidation.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe3d74dca5 UnrealEditor-DataValidation.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe3d751788 UnrealEditor-DataValidation.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe3d74bfa6 UnrealEditor-DataValidation.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe3d73e77d UnrealEditor-DataValidation.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe34a2d6d4 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe34a8cdca UnrealEditor-Engine.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe3143d20f UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffe31dcaac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ff7e2b082f6 UnrealEditor.exe!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ff7e2b20d9c UnrealEditor.exe!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ff7e2b20e8a UnrealEditor.exe!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ff7e2b23c4d UnrealEditor.exe!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ff7e2b35564 UnrealEditor.exe!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ff7e2b38736 UnrealEditor.exe!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffedb9a7614 KERNEL32.DLL!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: [Callstack] 0x00007ffedc9e26a1 ntdll.dll!UnknownFunction []
+[2023.02.26-12.12.51:839][946]LogOutputDevice: Error: 
